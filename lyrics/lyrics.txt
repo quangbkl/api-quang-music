@@ -1,0 +1,3792 @@
+[  
+   {  
+      "start":"3.503",
+      "vietnamese":"Để hiểu được những điều tôi sắp sửa nói đây,",
+      "english":"To understand what I'm about to tell you,"
+   },
+   {  
+      "start":"5.84",
+      "vietnamese":"trước tiên, các bạn cần phải làm điều này.",
+      "english":"you need to do something first."
+   },
+   {  
+      "start":"7.808",
+      "vietnamese":"Bạn cần phải tin vào những điều không tưởng.",
+      "english":"You need to believe in the impossible."
+   },
+   {  
+      "start":"10.011",
+      "vietnamese":"Các bạn có thể làm được không? Tốt.",
+      "english":"Can you do that? Good."
+   },
+   {  
+      "start":"11.846",
+      "vietnamese":"Các bạn nhìn thấy vệt đỏ đó chứ?",
+      "english":"You see that red blur?"
+   },
+   {  
+      "start":"13.18",
+      "vietnamese":"Là tôi đó.",
+      "english":"That's me."
+   },
+   {  
+      "start":"15.049",
+      "vietnamese":"Tôi nữa kìa.",
+      "english":"That too."
+   },
+   {  
+      "start":"17.051",
+      "vietnamese":"Đó cũng là tôi luôn.",
+      "english":"There I am again."
+   },
+   {  
+      "start":"20.988",
+      "vietnamese":"Tên tôi là Barry Allen.",
+      "english":"My name is Barry Allen."
+   },
+   {  
+      "start":"22.857",
+      "vietnamese":"Tôi là người có tốc độ nhanh nhất trên hành tinh này.",
+      "english":"I am the fastest man alive."
+   },
+   {  
+      "start":"28.962",
+      "vietnamese":"14 NĂM TRƯỚC - Câu chuyện của tôi khá là đơn giản.",
+      "english":"My story is pretty simple."
+   },
+   {  
+      "start":"30.798000000000002",
+      "vietnamese":"Cả cuộc đời tôi luôn trốn chạy.",
+      "english":"My whole life, I have been running."
+   },
+   {  
+      "start":"32.833",
+      "vietnamese":"Thường là chạy khỏi mấy đứa bắt nạt.",
+      "english":"Usually from bullies."
+   },
+   {  
+      "start":"34.201",
+      "vietnamese":"Đôi khi tôi chạy thoát.",
+      "english":"Sometimes I escaped."
+   },
+   {  
+      "start":"36.771",
+      "vietnamese":"Đôi khi thì lại dính chưởng.",
+      "english":"Sometimes I did not."
+   },
+   {  
+      "start":"38.939",
+      "vietnamese":"Kể mẹ nghe chuyện đã xảy ra xem nào?",
+      "english":"Tell me what happened."
+   },
+   {  
+      "start":"40.608",
+      "vietnamese":"Mấy thằng đó hay đi bắt nạt trẻ con...",
+      "english":"Those guys were picking on kids"
+   },
+   {  
+      "start":"42.543",
+      "vietnamese":"chỉ vì tụi bắt nạt đó nghĩ rằng những đứa ấy không ngầu.",
+      "english":"just 'cause they thought they weren't cool."
+   },
+   {  
+      "start":"45.012",
+      "vietnamese":"- Như thế là không đúng đắn. - Mẹ biết.",
+      "english":"- It wasn't right. - I know."
+   },
+   {  
+      "start":"47.314",
+      "vietnamese":"- Con đoán là con đã chạy không đủ nhanh. - Không.",
+      "english":"- I guess I wasn't fast enough. - No."
+   },
+   {  
+      "start":"49.483",
+      "vietnamese":"Con có một trái tim nhân hậu, Barry.",
+      "english":"You have such a good heart, Barry."
+   },
+   {  
+      "start":"52.219",
+      "vietnamese":"Và có một trái tim nhân hậu thì tốt hơn là có một đôi chân nhanh nhẹn.",
+      "english":"And it's better to have a good heart than fast legs."
+   },
+   {  
+      "start":"55.322",
+      "vietnamese":"Chào cả nhà. Anh về rồi đây.",
+      "english":"Hello. I'm home."
+   },
+   {  
+      "start":"57.625",
+      "vietnamese":"- Barry đã đánh nhau. - Vậy sao?",
+      "english":"- Barry got into a fight. - Oh, yeah?"
+   },
+   {  
+      "start":"60.027",
+      "vietnamese":"Và thằng bé đã thắng.",
+      "english":"And he won."
+   },
+   {  
+      "start":"61.095",
+      "vietnamese":"Ah, tuyệt lắm, chàng võ sĩ.",
+      "english":"Ah, way to go, slugger."
+   },
+   {  
+      "start":"64.265",
+      "vietnamese":"À, và... không được đánh nhau nữa đấy.",
+      "english":"Oh, and uh, no more fighting."
+   },
+   {  
+      "start":"67.668",
+      "vietnamese":"Mm-mm.",
+      "english":"Mm-mm."
+   },
+   {  
+      "start":"85.351",
+      "vietnamese":"Nhưng sau đêm đó,",
+      "english":"But after that night,"
+   },
+   {  
+      "start":"86.787",
+      "vietnamese":"tôi lại trốn chạy khỏi một thứ còn đáng sợ hơn rất nhiều.",
+      "english":"I was running from something much scarier."
+   },
+   {  
+      "start":"89.056",
+      "vietnamese":"- Một thứ mà tôi không bao giờ có thể giải thích được. - Henry! Henry!",
+      "english":"- Something I could never explain. - Henry! Henry!"
+   },
+   {  
+      "start":"91.425",
+      "vietnamese":"Một điều... không tưởng.",
+      "english":"Something impossible."
+   },
+   {  
+      "start":"94.361",
+      "vietnamese":"Giúp em với!",
+      "english":"Help!"
+   },
+   {  
+      "start":"96.363",
+      "vietnamese":"- Mẹ! Mẹ ơi! - Barry, đừng!",
+      "english":"- Mom! Mom! - Barry, don't!"
+   },
+   {  
+      "start":"98.766",
+      "vietnamese":"- Mẹ ơi! - Đừng để hắn chạm vào con!",
+      "english":"- Mom! - Don't let him touch you!"
+   },
+   {  
+      "start":"101.402",
+      "vietnamese":"Mẹ!",
+      "english":"- Mom! -"
+   },
+   {  
+      "start":"103.771",
+      "vietnamese":"Mẹ ơi!",
+      "english":"Mom!"
+   },
+   {  
+      "start":"105.439",
+      "vietnamese":"- Nora! - Lùi lại đi!",
+      "english":"- Nora! - Stay back!"
+   },
+   {  
+      "start":"107.675",
+      "vietnamese":"Nora, cố lên!",
+      "english":"- Nora, hold on! -"
+   },
+   {  
+      "start":"110.111",
+      "vietnamese":"Chạy đi, Barry, chạy đi!",
+      "english":"Run, Barry, run!"
+   },
+   {  
+      "start":"114.115",
+      "vietnamese":"Mẹ ơi?",
+      "english":"Mom?"
+   },
+   {  
+      "start":"116.016",
+      "vietnamese":"Bố ơi?",
+      "english":"Dad?"
+   },
+   {  
+      "start":"128.829",
+      "vietnamese":"Tôi xin lỗi.",
+      "english":"Sorry."
+   },
+   {  
+      "start":"132.9",
+      "vietnamese":"Vụ cướp thứ 2 trong tuần này rồi đấy.",
+      "english":"Second robbery this week."
+   },
+   {  
+      "start":"134.668",
+      "vietnamese":"Nhân viên xác định Clyde Mardon chính là kẻ nổ súng.",
+      "english":"The teller I.D.'d Clyde Mardon as the shooter."
+   },
+   {  
+      "start":"136.837",
+      "vietnamese":"Gì cơ?",
+      "english":"What?"
+   },
+   {  
+      "start":"138.272",
+      "vietnamese":"Ôi trời ơi, anh em nhà Mardon đã trở lại rồi à.",
+      "english":"Oh, jeez, the Mardon Brothers are back?"
+   },
+   {  
+      "start":"140.007",
+      "vietnamese":"Chúng ta biết được gì rồi?",
+      "english":"What do we got?"
+   },
+   {  
+      "start":"141.675",
+      "vietnamese":"Chúng khống chế ngân hàng, bắn vào camera,",
+      "english":"Perps took the bank, shot out the cameras,"
+   },
+   {  
+      "start":"143.477",
+      "vietnamese":"và để khỏi bị bắt, chúng giết luôn nhân viên an ninh nằm kia kìa.",
+      "english":"and as a chaser, killed the security guard over there."
+   },
+   {  
+      "start":"146.013",
+      "vietnamese":"Tôi đã cử một đội đi đến nhà...",
+      "english":"I've got unis kicking in doors"
+   },
+   {  
+      "start":"147.515",
+      "vietnamese":"của những người quen biết với anh em Mardon.",
+      "english":"of known Mardon Brothers associates."
+   },
+   {  
+      "start":"149.016",
+      "vietnamese":"Bên CSI đã đến chưa?",
+      "english":"CSI been over it?"
+   },
+   {  
+      "start":"151.018",
+      "vietnamese":"Uh, chưa.",
+      "english":"Uh, no."
+   },
+   {  
+      "start":"152.92",
+      "vietnamese":"Allen đâu rồi?",
+      "english":"Where's Allen?"
+   },
+   {  
+      "start":"155.623",
+      "vietnamese":"Xin lỗi! Tôi xin lỗi.",
+      "english":"- - Sorry, sorry."
+   },
+   {  
+      "start":"159.126",
+      "vietnamese":"Anh không thể cứ tiếp tục bao che cho cậu ta được...",
+      "english":"You can't keep covering for him."
+   },
+   {  
+      "start":"160.761",
+      "vietnamese":"- CSI! CSI! Xin cho qua. - Nếu cậu ta không có ở đây...",
+      "english":"- CSI, CSI coming through. - If he's not here now,"
+   },
+   {  
+      "start":"162.63",
+      "vietnamese":"thì tôi sẽ tiến hành điều tra vụ này một mình.",
+      "english":"I'm gonna have to carry on this investigation without him."
+   },
+   {  
+      "start":"163.998",
+      "vietnamese":"Xin lỗi đội trưởng Singh, tôi đến trễ.",
+      "english":"Sorry I'm late, Captain Singh."
+   },
+   {  
+      "start":"165.332",
+      "vietnamese":"Lần này là việc gì đây cậu Allen?",
+      "english":"What was it this time, Mr. Allen?"
+   },
+   {  
+      "start":"167.001",
+      "vietnamese":"Cậu quên đặt đồng hồ báo thức à?",
+      "english":"Did you forget to set your alarm clock?"
+   },
+   {  
+      "start":"168.469",
+      "vietnamese":"Trước khi cậu trả lời, tôi nên nhắc nhở cậu rằng,",
+      "english":"Before you answer, I should remind you"
+   },
+   {  
+      "start":"170.004",
+      "vietnamese":"lý do lần trước mà cậu nói là bị hư xe.",
+      "english":"the excuse you gave last time was car trouble."
+   },
+   {  
+      "start":"172.106",
+      "vietnamese":"Có muốn biết tại sao tôi lại nhớ kỹ câu đó đến thế không?",
+      "english":"Want to know why that one was particularly memorable?"
+   },
+   {  
+      "start":"173.674",
+      "vietnamese":"Vì tôi không có xe.",
+      "english":"I do not own a car."
+   },
+   {  
+      "start":"175.276",
+      "vietnamese":"Cậu ấy đi công chuyện cho tôi.",
+      "english":"He was running an errand for me."
+   },
+   {  
+      "start":"176.844",
+      "vietnamese":"Barry, cháu mua được cái chú đã yêu cầu chưa?",
+      "english":"Barry, did you get me what I asked for?"
+   },
+   {  
+      "start":"181.348",
+      "vietnamese":"Rồi ạ. Cháu mua được rồi.",
+      "english":"Yeah, yeah. I did."
+   },
+   {  
+      "start":"183.15",
+      "vietnamese":"Cháu để nó ở ngay...",
+      "english":"I have it right..."
+   },
+   {  
+      "start":"186.887",
+      "vietnamese":"đây này.",
+      "english":"Here."
+   },
+   {  
+      "start":"189.523",
+      "vietnamese":"Cháu lỡ cắn mấy miếng rồi.",
+      "english":"I had a few bites of it."
+   },
+   {  
+      "start":"209.209",
+      "vietnamese":"Xe của thủ phạm là một chiếc Mustang Shelby GT-500.",
+      "english":"Getaway car's a mustang shelby gt500."
+   },
+   {  
+      "start":"212.046",
+      "vietnamese":"Shelby có bánh xe sau rất to...",
+      "english":"Shelby's have a rear super-wide tire"
+   },
+   {  
+      "start":"214.481",
+      "vietnamese":"đặc biệt là với mẫu mã đó.",
+      "english":"specific to that model."
+   },
+   {  
+      "start":"215.983",
+      "vietnamese":"Bánh xe 12 inches không đối xứng.",
+      "english":"12 inches with an asymmetrical tread."
+   },
+   {  
+      "start":"219.22",
+      "vietnamese":"Hmm, còn thứ gì đó nữa này.",
+      "english":"And there's something else."
+   },
+   {  
+      "start":"222.323",
+      "vietnamese":"Cảm ơn ông.",
+      "english":"Thanks."
+   },
+   {  
+      "start":"228.295",
+      "vietnamese":"Phân.",
+      "english":"Fecal excrement."
+   },
+   {  
+      "start":"229.997",
+      "vietnamese":"Của động vật. Tôi nghĩ thế.",
+      "english":"Animal, I'd guess."
+   },
+   {  
+      "start":"231.665",
+      "vietnamese":"Bố tôi tặng cho tôi cây bút đó...",
+      "english":"My dad gave me that pen..."
+   },
+   {  
+      "start":"234.168",
+      "vietnamese":"Trước khi ông ấy chết.",
+      "english":"Before he died."
+   },
+   {  
+      "start":"236.904",
+      "vietnamese":"Tôi xin lỗi.",
+      "english":"Sorry."
+   },
+   {  
+      "start":"249.549",
+      "vietnamese":"Được rồi, tớ sẵn sàng xem cái máy đập nguyên tử này... đập rồi đấy.",
+      "english":"Okay, I am ready to see this atom smasher smashing."
+   },
+   {  
+      "start":"253.487",
+      "vietnamese":"Hôm nay đã có một vụ nổ súng.",
+      "english":"There was a shooting today."
+   },
+   {  
+      "start":"255.589",
+      "vietnamese":"Bố cậu cần tớ phân tích vài bằng chứng.",
+      "english":"Your dad needs me to process some evidence,"
+   },
+   {  
+      "start":"257.758",
+      "vietnamese":"Nghĩa là tớ không biết liệu chúng ta có thể...",
+      "english":"which means I don't know if we're going"
+   },
+   {  
+      "start":"259.193",
+      "vietnamese":"đến phòng thí nghiệm S.T.A.R. được không nữa.",
+      "english":"to be able to make it to S.T.A.R. Labs."
+   },
+   {  
+      "start":"260.894",
+      "vietnamese":"Nhưng nhìn máy chiếc máy đó hoạt động là giấc mơ của cậu mà.",
+      "english":"But seeing this thing turn on is like your dream."
+   },
+   {  
+      "start":"263.264",
+      "vietnamese":"Giấc mơ nhỏ bé đáng buồn của một con mọt sách như cậu.",
+      "english":"Your sad, little nerdy dream."
+   },
+   {  
+      "start":"265.199",
+      "vietnamese":"Cộng thêm việc tớ đã hủy hẹn để đi với cậu đấy.",
+      "english":"Besides, I canceled a date for this."
+   },
+   {  
+      "start":"266.567",
+      "vietnamese":"Đừng có động vào khoai chiên của tớ.",
+      "english":"Hands off my fries."
+   },
+   {  
+      "start":"269.203",
+      "vietnamese":"Không thể tin nổi.",
+      "english":"Unbelievable."
+   },
+   {  
+      "start":"270.738",
+      "vietnamese":"Tớ ăn vì thấy căng thẳng vì luận án.",
+      "english":"I'm stress eating over my dissertation."
+   },
+   {  
+      "start":"273.44",
+      "vietnamese":"Bọn tớ bắt đầu bán bánh Cronuts ở Jitters.",
+      "english":"We started selling cronuts at Jitters."
+   },
+   {  
+      "start":"275.109",
+      "vietnamese":"Hôm nay tớ xơi 2 cái rồi. Nếu tớ không sớm tốt nghiệp,",
+      "english":"I ate two today. If I don't graduate soon,"
+   },
+   {  
+      "start":"277.144",
+      "vietnamese":"thì vòng 2 của tớ sẽ còn hơn mẹ sề nữa.",
+      "english":"I'm gonna be more muffin top than woman."
+   },
+   {  
+      "start":"279.58",
+      "vietnamese":"Trông cậu rất tuyệt mà.",
+      "english":"You look amazing."
+   },
+   {  
+      "start":"284.451",
+      "vietnamese":"Cơ mà cái máy...",
+      "english":"What is so important"
+   },
+   {  
+      "start":"285.819",
+      "vietnamese":"gia tốc hạt này có gì mà quan trọng thế?",
+      "english":"about this particle accelerator anyway?"
+   },
+   {  
+      "start":"288.255",
+      "vietnamese":"Việc nghiên cứu lý thuyết lượng tử của Harrison Wells...",
+      "english":"Harrison Wells' work in quantum theory"
+   },
+   {  
+      "start":"290.724",
+      "vietnamese":"...đã vượt trên những công trình ở CERN* nhiều năm ánh sáng rồi.",
+      "english":"is light-years ahead of anything they're doing at Cern. \n...đã vượt trên những công trình ở CERN* nhiều năm ánh sáng rồi. ','290.724')\">"
+   },
+   {  
+      "start":"292.726",
+      "vietnamese":"Sao cứ nhắc đến chuyện đó là cậu không chịu nói tiếng Anh thế.",
+      "english":"You're doing that thing where you're not speaking English."
+   },
+   {  
+      "start":"296.13",
+      "vietnamese":"Được rồi.",
+      "english":"Okay."
+   },
+   {  
+      "start":"297.865",
+      "vietnamese":"Cậu hãy tưởng tượng...",
+      "english":"Just imagine"
+   },
+   {  
+      "start":"300.601",
+      "vietnamese":"Cái chấm này, chính là mọi thứ mà nhân loại...",
+      "english":"that that dot is everything the human race"
+   },
+   {  
+      "start":"304.471",
+      "vietnamese":"từng biết tính cho đến thời điểm này.",
+      "english":"has ever learned until this moment."
+   },
+   {  
+      "start":"306.307",
+      "vietnamese":"Có bao gồm cả điệu nhảy lắc hông luôn không?",
+      "english":"Does that include \"twerking\"?"
+   },
+   {  
+      "start":"307.641",
+      "vietnamese":"Còn cái này là tất cả những thứ chúng ta có thể học hỏi được...",
+      "english":"That is everything we could learn"
+   },
+   {  
+      "start":"309.543",
+      "vietnamese":"từ các máy gia tốc hạt.",
+      "english":"from the particle accelerator."
+   },
+   {  
+      "start":"311.145",
+      "vietnamese":"Đó là một cái nhìn hoàn toàn mới mẻ vào vật lý.",
+      "english":"It's a whole new way of looking at physics."
+   },
+   {  
+      "start":"312.946",
+      "vietnamese":"Nó sẽ hoàn toàn thay đổi...",
+      "english":"It will literally change the way"
+   },
+   {  
+      "start":"314.315",
+      "vietnamese":"cách nghĩ của chúng ta về tất cả mọi thứ.",
+      "english":"that we think about everything."
+   },
+   {  
+      "start":"316.65",
+      "vietnamese":"Cậu cần phải kiếm một cô bạn gái đi thôi.",
+      "english":"You got to get yourself a girlfriend."
+   },
+   {  
+      "start":"318.552",
+      "vietnamese":"Này, để thằng bé yên đi, nó đang làm việc đấy.",
+      "english":"Hey, leave him alone. He's working."
+   },
+   {  
+      "start":"320.387",
+      "vietnamese":"Chào bố.",
+      "english":"- Hi, dad. -"
+   },
+   {  
+      "start":"322.489",
+      "vietnamese":"- Xét nghiệm xong rồi kìa. - Ừ!",
+      "english":"- Your test thingy is done. - Yeah."
+   },
+   {  
+      "start":"326.327",
+      "vietnamese":"Cháu nghĩ anh em Mardon đang trốn ở một trang trại.",
+      "english":"I think the Mardon Brothers are hiding on a farm."
+   },
+   {  
+      "start":"328.629",
+      "vietnamese":"Mẫu phân cháu tìm thấy trên đường là phân bò,",
+      "english":"The fecal matter I found on the street, it was cow manure,"
+   },
+   {  
+      "start":"331.465",
+      "vietnamese":"và có chứa Oxytetracycline.",
+      "english":"which contained traces of oxytetracycline."
+   },
+   {  
+      "start":"334.101",
+      "vietnamese":"Đó là một chất kháng sinh.",
+      "english":"It's an antibiotic."
+   },
+   {  
+      "start":"335.602",
+      "vietnamese":"Chỉ còn 4 trang trại trong khu vực...",
+      "english":"There are only four farms in the area"
+   },
+   {  
+      "start":"337.338",
+      "vietnamese":"vẫn còn sử dụng loại kháng sinh đó trong thức ăn.",
+      "english":"that still use it in their feed."
+   },
+   {  
+      "start":"339.473",
+      "vietnamese":"Cháu đoán là chú sẽ tìm thấy một chiếc Shelby siêu đẹp đang đỗ ở 1 trong 4 nơi đó.",
+      "english":"Bet you find a really sweet shelby parked at one of them."
+   },
+   {  
+      "start":"342.676",
+      "vietnamese":"Bố thấy đấy, Barry đã giải quyết xong xuôi cái vụ án phân cho bố rồi,",
+      "english":"Dad, seeing as how Barry solved your poop problem,"
+   },
+   {  
+      "start":"344.812",
+      "vietnamese":"bố để cậu ấy đến phòng thí nghiệm Star được chứ?",
+      "english":"how about letting him go to S.T.A.R. Labs?"
+   },
+   {  
+      "start":"348.282",
+      "vietnamese":"- Được rồi, đi đi. - Tuyệt vời!",
+      "english":"- Fine, go. - Yes!"
+   },
+   {  
+      "start":"352.052",
+      "vietnamese":"Cảm ơn chú Joe.",
+      "english":"Thank you, Joe."
+   },
+   {  
+      "start":"360.827",
+      "vietnamese":"Vậy Barry, chuyến đi của cậu thế nào rồi?",
+      "english":"So, Barry, how was your trip?"
+   },
+   {  
+      "start":"362.863",
+      "vietnamese":"Cậu đã tìm thấy bằng chứng cho điều không tưởng ở thành phố Starling chưa,",
+      "english":"Did you find proof of the impossible in Starling City,"
+   },
+   {  
+      "start":"365.833",
+      "vietnamese":"hay là cậu chỉ khiến bố tớ nổi giận vô cớ?",
+      "english":"or did you just make my dad mad for no reason?"
+   },
+   {  
+      "start":"370.204",
+      "vietnamese":"Thật ra thì, khi tớ đi khỏi đây,",
+      "english":"Actually, while I was away,"
+   },
+   {  
+      "start":"372.206",
+      "vietnamese":"tớ đã có cơ hội suy nghĩ về...",
+      "english":"I had a chance to think about..."
+   },
+   {  
+      "start":"375.075",
+      "vietnamese":"Cậu biết đấy, chuyện bồ bịch.",
+      "english":"You know, relationships."
+   },
+   {  
+      "start":"376.844",
+      "vietnamese":"Và, tớ thì đang độc thân.",
+      "english":"And, well, I'm not in one."
+   },
+   {  
+      "start":"379.58",
+      "vietnamese":"Và cậu cũng đang độc thân.",
+      "english":"And you're not in one, either."
+   },
+   {  
+      "start":"382.95",
+      "vietnamese":"Và cậu là bạn thân của tớ, Iris.",
+      "english":"And you're my best friend, Iris."
+   },
+   {  
+      "start":"385.119",
+      "vietnamese":"Cậu cũng là bạn thân của tớ mà.",
+      "english":"You're mine too."
+   },
+   {  
+      "start":"386.854",
+      "vietnamese":"Còn lý do nào khác khiến tớ đến đây chứ?",
+      "english":"Why else would I be here?"
+   },
+   {  
+      "start":"388.322",
+      "vietnamese":"Ý tớ không phải thế, ý tớ là...",
+      "english":"That's not what I meant. What I..."
+   },
+   {  
+      "start":"390.157",
+      "vietnamese":"Tớ biết cậu định nói gì rồi, Barry.",
+      "english":"I know what you're gonna say, Barry."
+   },
+   {  
+      "start":"391.191",
+      "vietnamese":"Tớ không chắc là cậu biết đâu.",
+      "english":"I'm not sure you do."
+   },
+   {  
+      "start":"392.559",
+      "vietnamese":"Dù cho hầu như là chúng ta sống chung...",
+      "english":"Even though we pretty much grew up"
+   },
+   {  
+      "start":"394.094",
+      "vietnamese":"một nhà từ nhỏ đến lớn,",
+      "english":"in the same house together,"
+   },
+   {  
+      "start":"395.696",
+      "vietnamese":"và chúng ta giống như anh chị em ruột vậy.",
+      "english":"and we're kind of like brother and sister,"
+   },
+   {  
+      "start":"398.699",
+      "vietnamese":"Và vì chúng ta không phải anh em...",
+      "english":"because we're not brother and sister,"
+   },
+   {  
+      "start":"400.234",
+      "vietnamese":"nên chuyện này có thể sẽ trở nên rất kỳ quặc và ngượng ngùng...",
+      "english":"it can get really weird and awkward"
+   },
+   {  
+      "start":"402.77",
+      "vietnamese":"khi nói chuyện với tớ về con gái.",
+      "english":"to talk to me about girls."
+   },
+   {  
+      "start":"403.871",
+      "vietnamese":"Nhưng tớ chỉ muốn cậu biết là,",
+      "english":"But I just want you to know"
+   },
+   {  
+      "start":"405.172",
+      "vietnamese":"chuyện này sẽ không trở nên kỳ quặc đâu.",
+      "english":"that it shouldn't be awkward."
+   },
+   {  
+      "start":"407.207",
+      "vietnamese":"Tớ không mong muốn gì hơn...",
+      "english":"There is nothing that I want more"
+   },
+   {  
+      "start":"408.675",
+      "vietnamese":"là việc cậu tìm được một cô gái phù hợp...",
+      "english":"than for you to meet the right person"
+   },
+   {  
+      "start":"410.043",
+      "vietnamese":"thật lòng yêu mến cậu...",
+      "english":"that totally loves and adores you"
+   },
+   {  
+      "start":"412.346",
+      "vietnamese":"vì chính con người tuyệt vời của cậu.",
+      "english":"for the amazing guy that you are."
+   },
+   {  
+      "start":"417.918",
+      "vietnamese":"Cậu như đi guốc trong bụng tớ vậy.",
+      "english":"Took the words right out of my mouth."
+   },
+   {  
+      "start":"419.453",
+      "vietnamese":"Aw. Không phải cậu rất vui khi tớ hiểu rõ cậu đến thế sao?",
+      "english":"Aw, aren't you glad I know you so well?"
+   },
+   {  
+      "start":"430.163",
+      "vietnamese":"Cảm ơn các bạn.",
+      "english":"Thank you."
+   },
+   {  
+      "start":"432.499",
+      "vietnamese":"Tên tôi là Harrison Wells.",
+      "english":"My name is Harrison Wells."
+   },
+   {  
+      "start":"434.935",
+      "vietnamese":"Đêm nay, tương lai sẽ được bắt đầu.",
+      "english":"Tonight, the future begins."
+   },
+   {  
+      "start":"438.238",
+      "vietnamese":"Công trình của tôi và đội của tôi...",
+      "english":"The work my team and I will do here"
+   },
+   {  
+      "start":"441.008",
+      "vietnamese":"sẽ thay đổi sự hiểu biết của chúng ta về vật lý.",
+      "english":"will change our understanding of physics."
+   },
+   {  
+      "start":"443.31",
+      "vietnamese":"Sẽ mang lại những bước tiến mới về năng lượng,",
+      "english":"We'll bring about advancements in power,"
+   },
+   {  
+      "start":"445.946",
+      "vietnamese":"những tiến bộ trong trong y học,",
+      "english":"advancements in medicine,"
+   },
+   {  
+      "start":"447.981",
+      "vietnamese":"và hãy tin tôi, tương lai mà tôi đã nói đến...",
+      "english":"and trust me, that future"
+   },
+   {  
+      "start":"449.516",
+      "vietnamese":"...sẽ đến sớm hơn các bạn nghĩ nữa đấy.",
+      "english":"will be here faster than you think."
+   },
+   {  
+      "start":"453.32",
+      "vietnamese":"Oh! Này, laptop của tớ! Có luận án của tớ trong đó.",
+      "english":"Oh, hey, my laptop! It's got my dissertation."
+   },
+   {  
+      "start":"464.23",
+      "vietnamese":"Tôi xin lỗi.",
+      "english":"I'm sorry."
+   },
+   {  
+      "start":"477.478",
+      "vietnamese":"Được rồi nhóc, cậu không cần phải làm chuyện này đâu, được chứ?",
+      "english":"All right, kid, you don't have to do this, all right?"
+   },
+   {  
+      "start":"480.347",
+      "vietnamese":"Hãy trả lại túi cho bạn tôi,",
+      "english":"Just give me back my friend's bag,"
+   },
+   {  
+      "start":"481.748",
+      "vietnamese":"và chúng ta sẽ xem như chưa có chuyện gì xảy ra.",
+      "english":"and we'll call it even."
+   },
+   {  
+      "start":"484.051",
+      "vietnamese":"Được chứ?",
+      "english":"Okay?"
+   },
+   {  
+      "start":"488.121",
+      "vietnamese":"Barry!",
+      "english":"Barry!"
+   },
+   {  
+      "start":"490.123",
+      "vietnamese":"- Cậu ổn chứ? - Ừ.",
+      "english":"- Are you okay? - Yeah."
+   },
+   {  
+      "start":"494.027",
+      "vietnamese":"Đứng im! Cảnh sát đây!",
+      "english":"Freeze! Police!"
+   },
+   {  
+      "start":"495.395",
+      "vietnamese":"Hay cậu muốn tìm hiểu theo cách đau đớn...",
+      "english":"Or do you want to find out the hard way"
+   },
+   {  
+      "start":"496.83",
+      "vietnamese":"là liệu cậu có nhanh hơn viên đạn hay không?",
+      "english":"you're not faster than a bullet?"
+   },
+   {  
+      "start":"503.737",
+      "vietnamese":"Anh ta là ai và thứ gì mà khiến anh ta tự hào đến thế?",
+      "english":"Who is that guy, and what is he so proud of?"
+   },
+   {  
+      "start":"505.839",
+      "vietnamese":"Mới bắt được có một tên trộm thôi mà.",
+      "english":"So he caught a mugger?"
+   },
+   {  
+      "start":"507.174",
+      "vietnamese":"Anh ta vừa chuyển đến từ Keystone.",
+      "english":"He's a transfer from keystone."
+   },
+   {  
+      "start":"509.042",
+      "vietnamese":"Bắt đầu làm việc từ vài tuần trước. Eddie Thawne.",
+      "english":"Started a few weeks ago. Eddie Thawne."
+   },
+   {  
+      "start":"511.378",
+      "vietnamese":"À, đó là Trinh Sát Trai Đẹp.",
+      "english":"Oh, that's Detective Pretty Boy."
+   },
+   {  
+      "start":"515.516",
+      "vietnamese":"Bố tớ gọi anh ta như thế.",
+      "english":"That's what my dad calls him."
+   },
+   {  
+      "start":"517.851",
+      "vietnamese":"Bố tớ nói rằng anh ta là số 1 trong việc bắt giữ tội phạm.",
+      "english":"Says he actually keeps score when it comes to arrests."
+   },
+   {  
+      "start":"521.522",
+      "vietnamese":"Nhưng đúng là anh ta đẹp trai thật.",
+      "english":"He is pretty though."
+   },
+   {  
+      "start":"528.996",
+      "vietnamese":"Đây là nơi cuối cùng trong danh sách của Barry.",
+      "english":"This is the last farm on Barry's list."
+   },
+   {  
+      "start":"531.565",
+      "vietnamese":"Nghe này, tôi biết thằng nhóc đó rất thông minh.",
+      "english":"Look, I know the kid's smart,"
+   },
+   {  
+      "start":"532.866",
+      "vietnamese":"Nhưng chính anh cũng nói rồi đấy,",
+      "english":"but you said it yourself."
+   },
+   {  
+      "start":"534.301",
+      "vietnamese":"đôi khi nó cứ đuổi theo những điều ảo tưởng.",
+      "english":"Sometimes he's chasing flying pigs."
+   },
+   {  
+      "start":"537.204",
+      "vietnamese":"Dù sao thì cũng kiểm tra nốt đi thôi.",
+      "english":"Well, let's check it out anyway."
+   },
+   {  
+      "start":"549.582",
+      "vietnamese":"Tôi là Linda Park, và chúng tôi đang đưa tin trực tiếp từ phòng thí nghiệm S.T.A.R.,",
+      "english":"I'm Linda park, and we're live outside S.T.A.R. Labs"
+   },
+   {  
+      "start":"552.286",
+      "vietnamese":"mặc cho giông bão,",
+      "english":"despite the inclement weather,"
+   },
+   {  
+      "start":"553.62",
+      "vietnamese":"và còn có dấu hiệu tệ hơn.",
+      "english":"which is only going to get worse."
+   },
+   {  
+      "start":"555.088",
+      "vietnamese":"Cơn mưa nặng hạt này sẽ không hề ảnh hưởng đến...",
+      "english":"The torrential downpour has in no way affected"
+   },
+   {  
+      "start":"557.057",
+      "vietnamese":"máy gia tốc hạt,",
+      "english":"the particle accelerator,"
+   },
+   {  
+      "start":"558.358",
+      "vietnamese":"và nó sẽ vẫn được vận hành một cách trơn tru,",
+      "english":"which is up and running smoothly"
+   },
+   {  
+      "start":"560.06",
+      "vietnamese":"theo như lời của Harrison Wells CEO của phòng thí nghiệm S.T.A.R.",
+      "english":"according to S.T.A.R. Labs CEO Harrison Wells."
+   },
+   {  
+      "start":"562.563",
+      "vietnamese":"Thời tiết hiện tại cũng đã...",
+      "english":"- The weather has also... -"
+   },
+   {  
+      "start":"595.294",
+      "vietnamese":"- Whoa. - Mardon.",
+      "english":"- Whoa. - Mardon."
+   },
+   {  
+      "start":"596.797",
+      "vietnamese":"Ah!",
+      "english":"- - Ah!"
+   },
+   {  
+      "start":"606.606",
+      "vietnamese":"Tao còn một chuyến bay phải bắt nữa.",
+      "english":"I've got a plane to catch!"
+   },
+   {  
+      "start":"612.645",
+      "vietnamese":"Cái quái gì thế?",
+      "english":"What the hell?"
+   },
+   {  
+      "start":"615.282",
+      "vietnamese":"Ah!",
+      "english":"Ah!"
+   },
+   {  
+      "start":"622.856",
+      "vietnamese":"Chyre, ráng lên.",
+      "english":"Chyre, hang in there."
+   },
+   {  
+      "start":"631.731",
+      "vietnamese":"Chờ đã, chúng tôi vừa nhận tin nơi này đang được sơ tán.",
+      "english":"Wait, we're now being told to evacuate the facility."
+   },
+   {  
+      "start":"635.068",
+      "vietnamese":"Có thể cơn bão đã gây ra sự cố...",
+      "english":"The storm may have caused a malfunction"
+   },
+   {  
+      "start":"636.737",
+      "vietnamese":"với động cơ làm mát chính.",
+      "english":"to the primary cooling system."
+   },
+   {  
+      "start":"638.538",
+      "vietnamese":"Những người chịu trách nhiệm hiện đang cố gắng tắt...",
+      "english":"Officials are now trying to shut down"
+   },
+   {  
+      "start":"640.073",
+      "vietnamese":"máy gia tốc hạt. Nhưng cho đến giờ,",
+      "english":"the particle accelerator, but so far,"
+   },
+   {  
+      "start":"641.875",
+      "vietnamese":"thì vẫn chưa thể kiểm soát hệ thống...",
+      "english":"have been unable to regain control of the system..."
+   },
+   {  
+      "start":"695.928",
+      "vietnamese":"Có chuyện gì xảy ra với cậu ấy thế?",
+      "english":"What the hell happened to him?"
+   },
+   {  
+      "start":"697.03",
+      "vietnamese":"Cậu ấy bị sét đánh.",
+      "english":"He was hit by lightning."
+   },
+   {  
+      "start":"698.031",
+      "vietnamese":"Làm sao mà cậu ấy còn sống được chứ?",
+      "english":"How is he still alive?"
+   },
+   {  
+      "start":"700.267",
+      "vietnamese":"Đỡ qua nào!",
+      "english":"Go."
+   },
+   {  
+      "start":"701.868",
+      "vietnamese":"Không nghe thấy nhịp tim. Xét nghiệm máu toàn phần, máu tĩnh mạch, loại máu.",
+      "english":"No heartbeat. CBC, chem 24, type and cross four."
+   },
+   {  
+      "start":"703.77",
+      "vietnamese":"- Truyền dịch đi. - Tim ngừng đập rồi.",
+      "english":"- Bag him. - He's coding."
+   },
+   {  
+      "start":"705.205",
+      "vietnamese":"- Cô không thể vào đây được! - Tôi là người nhà!",
+      "english":"- You can't be in here. - I'm family."
+   },
+   {  
+      "start":"707.207",
+      "vietnamese":"- Lên mức 200. - Barry!",
+      "english":"- Charge the paddles to 200. - Barry!"
+   },
+   {  
+      "start":"708.775",
+      "vietnamese":"Sẵn sàng!",
+      "english":"- Clear. -"
+   },
+   {  
+      "start":"726.56",
+      "vietnamese":"Cậu đang làm gì thế?",
+      "english":"What are you doing?"
+   },
+   {  
+      "start":"728.295",
+      "vietnamese":"Cậu ta thích bài này.",
+      "english":"He likes this song."
+   },
+   {  
+      "start":"729.496",
+      "vietnamese":"Làm sao mà cậu biết được chứ?",
+      "english":"How could you possibly know that?"
+   },
+   {  
+      "start":"731.231",
+      "vietnamese":"Tôi xem facebook của cậu ta.",
+      "english":"I checked his Facebook page."
+   },
+   {  
+      "start":"732.933",
+      "vietnamese":"Ý tớ là, cậu ta có thể nghe được mọi thứ, đúng chứ?",
+      "english":"I mean, he can hear everything, right?"
+   },
+   {  
+      "start":"735.435",
+      "vietnamese":"Thính giác là bộ phận cuối cùng...",
+      "english":"Auditory functions are the last"
+   },
+   {  
+      "start":"736.636",
+      "vietnamese":"mất chức năng khi cơ thể thoái hóa.",
+      "english":"sensory faculties to degenerate."
+   },
+   {  
+      "start":"738.839",
+      "vietnamese":"♪ Can't read my no he can't read my poker... ♪",
+      "english":"♪ Can't read my no he can't read my poker... ♪"
+   },
+   {  
+      "start":"741.975",
+      "vietnamese":"Trời đất ơi!",
+      "english":"- - Oh, my God!"
+   },
+   {  
+      "start":"743.977",
+      "vietnamese":"- Tôi đang ở đâu đây? - Cậu ta tỉnh rồi!",
+      "english":"- Where am I? - He's up."
+   },
+   {  
+      "start":"745.846",
+      "vietnamese":"Tiến sĩ Wells, xin hãy xuống đây ngay lập tức.",
+      "english":"Dr. Wells, get down to the cortex, like, right now."
+   },
+   {  
+      "start":"748.415",
+      "vietnamese":"Mạch 120. Đồng tử phản ứng với ánh sáng.",
+      "english":"Pulse 120, pupils equally reactive to light."
+   },
+   {  
+      "start":"751.618",
+      "vietnamese":"- Nhìn tôi này, nhìn tôi này. - Này, này, bình tĩnh đi nào.",
+      "english":"Look at me, look at me. Hey, hey, whoa, whoa, relax."
+   },
+   {  
+      "start":"754.821",
+      "vietnamese":"Mọi chuyện đều ổn cả mà.",
+      "english":"Everything's okay, man."
+   },
+   {  
+      "start":"756.123",
+      "vietnamese":"Cậu đang ở phòng thí nghiệm S.T.A.R.",
+      "english":"You're at S.T.A.R. Labs."
+   },
+   {  
+      "start":"757.724",
+      "vietnamese":"Phòng thí nghiệm S.T.A.R.? Hai người là ai?",
+      "english":"S.T.A.R. Labs? Who are you?"
+   },
+   {  
+      "start":"759.493",
+      "vietnamese":"Tôi là Cisco Ramon. Cô ấy là Caitlin... Tiến sĩ Snow.",
+      "english":"I'm cisco Ramon. She's Caitlin... Dr. Snow."
+   },
+   {  
+      "start":"762.662",
+      "vietnamese":"Tôi cần anh tiểu vào cái này.",
+      "english":"I need you to urinate in this."
+   },
+   {  
+      "start":"764.164",
+      "vietnamese":"Không phải bây giờ.",
+      "english":"Not this second."
+   },
+   {  
+      "start":"765.766",
+      "vietnamese":"Đang có chuyện gì xảy ra thế này?",
+      "english":"What is... what is happening? What is going on?"
+   },
+   {  
+      "start":"767.734",
+      "vietnamese":"Cậu bị sét đánh đấy anh bạn.",
+      "english":"You were struck by lightning, dude."
+   },
+   {  
+      "start":"770.604",
+      "vietnamese":"Cái gì?",
+      "english":"What?"
+   },
+   {  
+      "start":"773.774",
+      "vietnamese":"Sét cho tôi 6 múi sao?",
+      "english":"Lightning gave me abs?"
+   },
+   {  
+      "start":"775.842",
+      "vietnamese":"Cơ bắp của cậu đáng lẽ phải bị teo lại,",
+      "english":"Your muscles should be atrophied,"
+   },
+   {  
+      "start":"777.244",
+      "vietnamese":"nhưng thay vào đó chúng lại rất ổn định...",
+      "english":"but instead they're in a chronic"
+   },
+   {  
+      "start":"778.812",
+      "vietnamese":"và tái tạo tế bào ở một mức độ không thể giải thích.",
+      "english":"and unexplained state of cellular regeneration."
+   },
+   {  
+      "start":"780.847",
+      "vietnamese":"Đến đây nào, ngồi đi.",
+      "english":"Come here. Have a seat."
+   },
+   {  
+      "start":"783.55",
+      "vietnamese":"Cậu đã bị hôn mê.",
+      "english":"You were in a coma."
+   },
+   {  
+      "start":"784.918",
+      "vietnamese":"Trong bao lâu?",
+      "english":"For how long?"
+   },
+   {  
+      "start":"786.72",
+      "vietnamese":"9 tháng.",
+      "english":"Nine months."
+   },
+   {  
+      "start":"789.022",
+      "vietnamese":"Chào mừng cậu trở lại cậu Allen.",
+      "english":"Welcome back, Mr. Allen."
+   },
+   {  
+      "start":"792.325",
+      "vietnamese":"Chúng ta có rất nhiều chuyện cần phải thảo luận đấy.",
+      "english":"We have a lot to discuss."
+   },
+   {  
+      "start":"795.862",
+      "vietnamese":"Thật khó tin là tôi đang ở đây.",
+      "english":"It's hard to believe I'm here."
+   },
+   {  
+      "start":"797.664",
+      "vietnamese":"Tôi đã luôn muốn được gặp ông, trực tiếp.",
+      "english":"I have always wanted to meet you face to face."
+   },
+   {  
+      "start":"800.033",
+      "vietnamese":"Vậy sao?",
+      "english":"Yeah?"
+   },
+   {  
+      "start":"801.635",
+      "vietnamese":"Và chắc chắn là cậu đã rất cố gắng để làm điều đó.",
+      "english":"Well, you certainly went to great lengths to do it."
+   },
+   {  
+      "start":"803.203",
+      "vietnamese":"Phòng thí nghiệm S.T.A.R. đã không hoạt động...",
+      "english":"S.T.A.R. Labs has not been operational"
+   },
+   {  
+      "start":"805.806",
+      "vietnamese":"kể từ khi FEMA liệt chúng tôi...",
+      "english":"since FEMA categorized us"
+   },
+   {  
+      "start":"807.374",
+      "vietnamese":"vào nơi có mức nguy hiểm cấp độ 4.",
+      "english":"as a class four hazardous location."
+   },
+   {  
+      "start":"811.011",
+      "vietnamese":"17 người đã chết đêm đó.",
+      "english":"17 people died that night."
+   },
+   {  
+      "start":"812.813",
+      "vietnamese":"Rất nhiều người khác bị thương.",
+      "english":"Many more were injured."
+   },
+   {  
+      "start":"814.347",
+      "vietnamese":"Trong số đó có cả tôi nữa.",
+      "english":"Myself amongst them."
+   },
+   {  
+      "start":"816.917",
+      "vietnamese":"Trời đất.",
+      "english":"Jeez."
+   },
+   {  
+      "start":"819.052",
+      "vietnamese":"Đã có chuyện gì xảy ra thế?",
+      "english":"What happened?"
+   },
+   {  
+      "start":"821.822",
+      "vietnamese":"9 tháng trước, máy gia tốc hạt...",
+      "english":"Nine months ago, the particle accelerator"
+   },
+   {  
+      "start":"824.457",
+      "vietnamese":"được đưa vào sử dụng, chính xác theo như kế hoạch đã định.",
+      "english":"went online exactly as planned."
+   },
+   {  
+      "start":"826.493",
+      "vietnamese":"Trong 45 phút tôi đã đạt được giấc mơ của đời mình.",
+      "english":"For 45 minutes, I had achieved my life's dream."
+   },
+   {  
+      "start":"829.729",
+      "vietnamese":"Và sau đó... sau đó có một điều bất thường xảy ra.",
+      "english":"And then... Then there was an anomaly."
+   },
+   {  
+      "start":"833.3",
+      "vietnamese":"Các Electron-vôn trở nên không thể đo đếm được.",
+      "english":"The electron volts became unmeasurable,"
+   },
+   {  
+      "start":"835.735",
+      "vietnamese":"Khu vực bên dưới chúng tôi nổ tung,",
+      "english":"the ring under us popped."
+   },
+   {  
+      "start":"837.337",
+      "vietnamese":"năng lượng từ vụ nổ đó bay lên bầu trời,",
+      "english":"Energy from that detonation was thrown into the sky"
+   },
+   {  
+      "start":"839.573",
+      "vietnamese":"và vì thế, những đám mây bão được hình thành...",
+      "english":"and that, in turn, seeded a storm cloud..."
+   },
+   {  
+      "start":"841.975",
+      "vietnamese":"Nó đã tạo ra những tia sét...",
+      "english":"That created a lightning bolt"
+   },
+   {  
+      "start":"844.211",
+      "vietnamese":"đã đánh trúng tôi.",
+      "english":"that struck me."
+   },
+   {  
+      "start":"846.279",
+      "vietnamese":"Đúng thế.",
+      "english":"That's right."
+   },
+   {  
+      "start":"849.382",
+      "vietnamese":"Lúc đó tôi đang phục hồi,",
+      "english":"I was recovering myself..."
+   },
+   {  
+      "start":"853.52",
+      "vietnamese":"khi tôi nghe về cậu.",
+      "english":"When I heard about you."
+   },
+   {  
+      "start":"856.69",
+      "vietnamese":"Bệnh viện luôn trải qua những đợt mất điện không thể giải thích...",
+      "english":"The hospital was undergoing unexplainable power outages"
+   },
+   {  
+      "start":"859.759",
+      "vietnamese":"...mỗi khi tim cậu ngừng đập,",
+      "english":"every time you were going into cardiac arrest,"
+   },
+   {  
+      "start":"862.028",
+      "vietnamese":"và đó thật ra là chẩn đoán sai,",
+      "english":"which was actually a misdiagnosis"
+   },
+   {  
+      "start":"864.231",
+      "vietnamese":"vì cậu thấy đấy, điện tâm đồ của cậu không chạy một hàng ngang, Barry.",
+      "english":"because you see, you weren't flatlining, Barry."
+   },
+   {  
+      "start":"867.567",
+      "vietnamese":"Mà là vì tim của cậu đập quá nhanh...",
+      "english":"Your heartbeat was moving too fast"
+   },
+   {  
+      "start":"869.903",
+      "vietnamese":"nên điện tâm đồ không thể đo được.",
+      "english":"for the EKG to register it."
+   },
+   {  
+      "start":"872.272",
+      "vietnamese":"Giờ thì tôi không phải là người nổi tiếng nhất trong thành phố những ngày gần đây,",
+      "english":"Now, I'm not the most popular person in town these days,"
+   },
+   {  
+      "start":"875.876",
+      "vietnamese":"nhưng Trinh sát West và con gái ông ấy...",
+      "english":"but Detective West and his daughter"
+   },
+   {  
+      "start":"878.445",
+      "vietnamese":"đã cho phép tôi đưa cậu đến đây,",
+      "english":"gave me permission to bring you here,"
+   },
+   {  
+      "start":"879.813",
+      "vietnamese":"một nơi chúng tôi có thể ổn định tình trạng cho cậu.",
+      "english":"where we were able to stabilize you."
+   },
+   {  
+      "start":"882.148",
+      "vietnamese":"- Iris? - Iris, đúng thế.",
+      "english":"- Iris? - Iris, yes."
+   },
+   {  
+      "start":"883.483",
+      "vietnamese":"Con bé rất hay đến thăm cậu.",
+      "english":"She came to see you quite often."
+   },
+   {  
+      "start":"885.452",
+      "vietnamese":"Nói hơi bị nhiều nữa.",
+      "english":"She talks a lot."
+   },
+   {  
+      "start":"886.786",
+      "vietnamese":"Dù sao thì cô ấy rất hấp dẫn mà.",
+      "english":"Also, she's hot."
+   },
+   {  
+      "start":"888.255",
+      "vietnamese":"- Tôi cần phải đi đây. - Không, cậu không thể.",
+      "english":"- I need to go. - No, you can't."
+   },
+   {  
+      "start":"890.056",
+      "vietnamese":"Không, không, không. Caitlin nói đúng,",
+      "english":"No, no. No, Caitlin's right."
+   },
+   {  
+      "start":"891.858",
+      "vietnamese":"Bây giờ khi cậu đã tỉnh lại, chúng tôi cần phải xét nghiệm thêm.",
+      "english":"No, now that you're awake, we need to do more tests."
+   },
+   {  
+      "start":"893.293",
+      "vietnamese":"Cơ thể cậu vẫn còn tiếp tục thay đổi.",
+      "english":"You're still going through changes."
+   },
+   {  
+      "start":"895.295",
+      "vietnamese":"Có rất điều mà chúng tôi vẫn chưa hiểu rõ.",
+      "english":"There's so much that we don't know."
+   },
+   {  
+      "start":"896.696",
+      "vietnamese":"Tôi ổn mà, thật đấy. Tôi cảm thấy rất bình thường.",
+      "english":"I'm fine. Really, I feel normal."
+   },
+   {  
+      "start":"899.032",
+      "vietnamese":"Cảm ơn mọi người đã cứu mạng tôi.",
+      "english":"Thank you for saving my life."
+   },
+   {  
+      "start":"900.967",
+      "vietnamese":"Thật sao?",
+      "english":"- Really? -"
+   },
+   {  
+      "start":"903.169",
+      "vietnamese":"Tôi giữ lại cái áo ấm này được không?",
+      "english":"Can I keep the sweatshirt?"
+   },
+   {  
+      "start":"904.938",
+      "vietnamese":"- Ừ, cậu có thể giữ nó. - Vậy được rồi.",
+      "english":"- Yeah, keep the sweatshirt. - Okay."
+   },
+   {  
+      "start":"913.946",
+      "vietnamese":"- Cảm ơn cô. - Chắc rồi.",
+      "english":"Sure."
+   },
+   {  
+      "start":"917.117",
+      "vietnamese":"- Cô dùng thêm không? - Cảm ơn.",
+      "english":"- Fill 'er up? - Thanks."
+   },
+   {  
+      "start":"928.661",
+      "vietnamese":"Ôi Chúa ơi!",
+      "english":"Oh, my God."
+   },
+   {  
+      "start":"935.367",
+      "vietnamese":"Cậu tỉnh lại rồi!",
+      "english":"You're awake."
+   },
+   {  
+      "start":"937.337",
+      "vietnamese":"Tại sao phòng thí nghiệm S.T.A.R. lại không gọi cho gia đình tớ chứ?",
+      "english":"Why didn't S.T.A.R. Labs call us?"
+   },
+   {  
+      "start":"938.838",
+      "vietnamese":"Tớ chỉ vừa mới tỉnh lại thôi.",
+      "english":"I just woke up."
+   },
+   {  
+      "start":"940.307",
+      "vietnamese":"Cậu có được đi lại không đấy?",
+      "english":"Should you even be on your feet?"
+   },
+   {  
+      "start":"941.975",
+      "vietnamese":"Iris, tớ... Tớ ổn mà.",
+      "english":"Iris, I... I'm okay."
+   },
+   {  
+      "start":"946.211",
+      "vietnamese":"Tớ đã chứng kiến cậu chết, Barry.",
+      "english":"I watched you die, Barry."
+   },
+   {  
+      "start":"948.615",
+      "vietnamese":"Tim cậu cứ ngừng đập hết lần này đến lần khác.",
+      "english":"You kept dying. Your heart kept stopping."
+   },
+   {  
+      "start":"954.787",
+      "vietnamese":"Nó vẫn còn đập đây này.",
+      "english":"It's still beating."
+   },
+   {  
+      "start":"956.122",
+      "vietnamese":"- Mà còn rất nhanh nữa. - Oops.",
+      "english":"- Feels really fast. - Oops."
+   },
+   {  
+      "start":"965.564",
+      "vietnamese":"Cô ổn chứ, Tracy?",
+      "english":"Are you okay, Tracy?"
+   },
+   {  
+      "start":"966.733",
+      "vietnamese":"Ừ, tôi dọn được mà.",
+      "english":"Yeah, I got it."
+   },
+   {  
+      "start":"970.537",
+      "vietnamese":"Bố tớ sẽ rất vui khi gặp cậu đấy.",
+      "english":"My dad is gonna be so happy to see you."
+   },
+   {  
+      "start":"973.84",
+      "vietnamese":"Để tớ đi lấy đồ được chứ? Tớ sẽ quay lại ngay.",
+      "english":"Let me get my stuff, okay? Be right back."
+   },
+   {  
+      "start":"984.45",
+      "vietnamese":"Cảm ơn. Cảm ơn nhiều.",
+      "english":"Thank you. Thank you so much."
+   },
+   {  
+      "start":"986.653",
+      "vietnamese":"Tôi có thể giúp được gì cho anh hôm nay đây?",
+      "english":"How can I help you today?"
+   },
+   {  
+      "start":"990.523",
+      "vietnamese":"\"Cướp đây.\"",
+      "english":"\"This is a robbery.\""
+   },
+   {  
+      "start":"992.892",
+      "vietnamese":"Đây là một trò đùa sao?",
+      "english":"Is this supposed to be a joke?"
+   },
+   {  
+      "start":"993.994",
+      "vietnamese":"Cô nói tôi nghe xem.",
+      "english":"You tell me."
+   },
+   {  
+      "start":"1007.407",
+      "vietnamese":"Cháu làm bọn chú sợ quá đấy nhóc.",
+      "english":"Oh, you scared the hell out of us, kid."
+   },
+   {  
+      "start":"1011.544",
+      "vietnamese":"Ờ, cậu ngủ hơi bị lâu đấy, mặt búng ra sữa à.",
+      "english":"Yeah, that was quite the nap you took there, baby face,"
+   },
+   {  
+      "start":"1013.947",
+      "vietnamese":"Và trông cậu vẫn như thằng nhóc 12 tuổi.",
+      "english":"- and you still look 12. -"
+   },
+   {  
+      "start":"1016.349",
+      "vietnamese":"Trông thì cháu có vẻ ổn.",
+      "english":"You look okay."
+   },
+   {  
+      "start":"1018.018",
+      "vietnamese":"Nhưng cháu thật sự ổn chứ?",
+      "english":"Are you really?"
+   },
+   {  
+      "start":"1019.586",
+      "vietnamese":"- Vâng ạ. - Trinh sát West,",
+      "english":"- Yeah. - Detective West,"
+   },
+   {  
+      "start":"1021.488",
+      "vietnamese":"chúng ta có một vụ cướp ở ngân hàng Gold City. 2 người chết.",
+      "english":"we've got a 5.15 in progress at gold city bank, two dead."
+   },
+   {  
+      "start":"1024.791",
+      "vietnamese":"Bão phía Nam ngày càng mạnh.",
+      "english":"Storm's really picking up on the South side."
+   },
+   {  
+      "start":"1026.459",
+      "vietnamese":"Anh mang áo mưa theo đi.",
+      "english":"I'd grab your rain gear."
+   },
+   {  
+      "start":"1027.827",
+      "vietnamese":"Chú xin lỗi, Barry, chú phải đi đây.",
+      "english":"I'm sorry, Barry. I got to run."
+   },
+   {  
+      "start":"1029.462",
+      "vietnamese":"- Chú có cần cháu giúp không? - Không, cứ nghỉ ngơi đi.",
+      "english":"- Do you need my help? - No, you take it easy."
+   },
+   {  
+      "start":"1031.431",
+      "vietnamese":"Còn rất nhiều việc để cháu làm khi cháu đã hoàn toàn ổn định.",
+      "english":"There'll be plenty for you to do once you settle in."
+   },
+   {  
+      "start":"1033.433",
+      "vietnamese":"Đi thôi mọi người.",
+      "english":"Let's go, partner."
+   },
+   {  
+      "start":"1036.302",
+      "vietnamese":"Chào Allen. Rất vui được gặp cậu.",
+      "english":"Hey, Allen. Glad to see you."
+   },
+   {  
+      "start":"1039.506",
+      "vietnamese":"- Cảm ơn Eddie. - Chào Iris.",
+      "english":"- Thanks, Eddie. - Hey, Iris."
+   },
+   {  
+      "start":"1041.841",
+      "vietnamese":"Chào trinh sát, anh nên đi đi.",
+      "english":"Detective, you should go."
+   },
+   {  
+      "start":"1043.343",
+      "vietnamese":"Bố tôi không thích chờ đợi đâu.",
+      "english":"My dad doesn't like to be kept waiting."
+   },
+   {  
+      "start":"1046.279",
+      "vietnamese":"Rất vui vì cậu đã quay lại.",
+      "english":"Glad you're back."
+   },
+   {  
+      "start":"1054.453",
+      "vietnamese":"Đêm xảy ra vụ nổ,",
+      "english":"The night of the explosion,"
+   },
+   {  
+      "start":"1055.989",
+      "vietnamese":"Clyde Mardon đã bắn và giết chết bác Chyre.",
+      "english":"Clyde Mardon shot and killed Chyre."
+   },
+   {  
+      "start":"1057.891",
+      "vietnamese":"Mardon và anh trai hắn chết khi máy bay thoát hiểm...",
+      "english":"Mardon and his brother died trying to escape."
+   },
+   {  
+      "start":"1059.626",
+      "vietnamese":"của chúng bị nổ.",
+      "english":"Their plane crashed."
+   },
+   {  
+      "start":"1060.96",
+      "vietnamese":"Iris! Cháu rảnh không?",
+      "english":"Iris, got a minute?"
+   },
+   {  
+      "start":"1062.762",
+      "vietnamese":"Chào Barry. Rất vui được gặp lại cậu.",
+      "english":"Hey, Barry. Good to see you."
+   },
+   {  
+      "start":"1070.502",
+      "vietnamese":"Đồ khốn nạn!",
+      "english":"Screw you!"
+   },
+   {  
+      "start":"1072.772",
+      "vietnamese":"Cậu ổn chứ?",
+      "english":"You okay?"
+   },
+   {  
+      "start":"1074.474",
+      "vietnamese":"Tớ... Tớ ổn.",
+      "english":"I... I'm fine."
+   },
+   {  
+      "start":"1076.276",
+      "vietnamese":"Tớ cần hít thở chút không khí.",
+      "english":"I... I just need some air."
+   },
+   {  
+      "start":"1077.677",
+      "vietnamese":"Nhưng tối nay tớ sẽ gọi cho cậu, được chứ?",
+      "english":"But I'll call you tonight, all right?"
+   },
+   {  
+      "start":"1088.12",
+      "vietnamese":"Có chuyện gì đang xảy ra với mình thế này?",
+      "english":"What's happening to me?"
+   },
+   {  
+      "start":"1097.162",
+      "vietnamese":"Oh, oh!",
+      "english":"- - Oh, oh!"
+   },
+   {  
+      "start":"1127.192",
+      "vietnamese":"Quá đỉnh!",
+      "english":"Awesome."
+   },
+   {  
+      "start":"1135",
+      "vietnamese":"Ông không thật sự tin rằng cậu ta có thể chạy nhanh đến thế đúng chứ?",
+      "english":"You don't really believe he can run that fast, do you?"
+   },
+   {  
+      "start":"1136.769",
+      "vietnamese":"Tôi tin rằng mọi chuyện đều có thể xảy ra,",
+      "english":"Well, I believe anything is possible,"
+   },
+   {  
+      "start":"1138.071",
+      "vietnamese":"và trong vài phút nữa,",
+      "english":"and in a few minutes,"
+   },
+   {  
+      "start":"1139.239",
+      "vietnamese":"cô cũng sẽ giống như tôi thôi.",
+      "english":"maybe you will too."
+   },
+   {  
+      "start":"1142.308",
+      "vietnamese":"Bộ đồ vừa không?",
+      "english":"How does it fit?"
+   },
+   {  
+      "start":"1148.78",
+      "vietnamese":"Có hơi chật chút xíu.",
+      "english":"It's a little snug."
+   },
+   {  
+      "start":"1150.817",
+      "vietnamese":"Ít nhất là cậu chạy rất nhanh,",
+      "english":"At least you will be moving so fast"
+   },
+   {  
+      "start":"1152.252",
+      "vietnamese":"nên không ai nhìn thấy cậu đâu.",
+      "english":"no one will see you."
+   },
+   {  
+      "start":"1155.321",
+      "vietnamese":"Thấy chứ, cậu nghĩ thế giới này đang chuyển động chậm lại.",
+      "english":"See, you thought the world was slowing down."
+   },
+   {  
+      "start":"1157.79",
+      "vietnamese":"Nhưng không phải thế đâu.",
+      "english":"It wasn't."
+   },
+   {  
+      "start":"1159.058",
+      "vietnamese":"Vì cậu di chuyện quá nhanh,",
+      "english":"You were moving so fast"
+   },
+   {  
+      "start":"1160.627",
+      "vietnamese":"nên cậu sẽ thấy người khác giống như đang đứng yên vậy.",
+      "english":"it only looked like everyone else was standing still."
+   },
+   {  
+      "start":"1163.429",
+      "vietnamese":"Tiến sĩ Wells sẽ theo dõi mức năng lượng được giải phóng,",
+      "english":"Dr. Wells will be monitoring your energy output,"
+   },
+   {  
+      "start":"1165.465",
+      "vietnamese":"và Caitlin phụ trách Vitals* của cậu.",
+      "english":"and Caitlin, your vitals. \nvà Caitlin phụ trách Vitals* của cậu. ','1165.465')\">"
+   },
+   {  
+      "start":"1167.767",
+      "vietnamese":"Còn cậu làm gì?",
+      "english":"What do you do?"
+   },
+   {  
+      "start":"1169.102",
+      "vietnamese":"Tôi làm đồ chơi. Xem này.",
+      "english":"I make the toys, my man. Check it."
+   },
+   {  
+      "start":"1172.405",
+      "vietnamese":"Đây là tai nghe hai chiều cùng với camera tôi đã chỉnh sửa.",
+      "english":"This is a two-way headset with a camera I modified."
+   },
+   {  
+      "start":"1175.108",
+      "vietnamese":"Nó được tạo ra để chống lại tiếng ồn trên chiến trường,",
+      "english":"Typically designed to combat battlefield impulse noise,"
+   },
+   {  
+      "start":"1177.177",
+      "vietnamese":"còn trong trường hợp của cậu, là những tiếng nổ siêu thanh.",
+      "english":"or in your case, potential sonic booms,"
+   },
+   {  
+      "start":"1179.979",
+      "vietnamese":"Và chuyện đó thì quá tuyệt luôn.",
+      "english":"which would be awesome."
+   },
+   {  
+      "start":"1188.587",
+      "vietnamese":"- Gì thế? - Không có gì.",
+      "english":"- What? - Nothing."
+   },
+   {  
+      "start":"1192.258",
+      "vietnamese":"Tôi chỉ để ý thấy là cô không hay cười cho lắm.",
+      "english":"I just noticed you don't smile too much."
+   },
+   {  
+      "start":"1195.662",
+      "vietnamese":"Sự nghiệp kỹ sư sinh học của tôi đã kết thúc.",
+      "english":"My once promising career in bioengineering is over,"
+   },
+   {  
+      "start":"1199.165",
+      "vietnamese":"Sếp tôi phải ngồi xe lăn cả đời.",
+      "english":"my boss is in a wheelchair for life,"
+   },
+   {  
+      "start":"1200.6",
+      "vietnamese":"Cái vụ nổ đã khiến anh bị hôn mê...",
+      "english":"the explosion that put you in a coma"
+   },
+   {  
+      "start":"1202.335",
+      "vietnamese":"cũng cướp đi mạng sống vị hôn phu của tôi.",
+      "english":"also killed my fiance."
+   },
+   {  
+      "start":"1205.171",
+      "vietnamese":"Nên vẻ mặt không cảm xúc này có vẻ sẽ phù hợp hơn.",
+      "english":"So this blank expression kind of feels like the way to go."
+   },
+   {  
+      "start":"1209.842",
+      "vietnamese":"Cậu Allen, dù tôi đang rất nóng lòng...",
+      "english":"Mr. Allen, while I am extremely eager"
+   },
+   {  
+      "start":"1212.278",
+      "vietnamese":"muốn xác định khả năng cực điểm của cậu,",
+      "english":"to determine your full range of abilities,"
+   },
+   {  
+      "start":"1215.248",
+      "vietnamese":"nhưng tôi cũng muốn cậu phải cẩn trọng.",
+      "english":"I do caution restraint."
+   },
+   {  
+      "start":"1218.284",
+      "vietnamese":"Được rồi.",
+      "english":"Yeah."
+   },
+   {  
+      "start":"1250.682",
+      "vietnamese":"Woo-hoo!",
+      "english":"Woo-hoo!"
+   },
+   {  
+      "start":"1252.785",
+      "vietnamese":"Cậu ấy vừa vượt mức 200 hải lý trên giờ.",
+      "english":"He just passed 200 Miles per hour."
+   },
+   {  
+      "start":"1256.455",
+      "vietnamese":"Không thể nào.",
+      "english":"It's not possible."
+   },
+   {  
+      "start":"1267.466",
+      "vietnamese":"Mẹ ơi!",
+      "english":"Mom!"
+   },
+   {  
+      "start":"1268.901",
+      "vietnamese":"- Không! Barry! - Mẹ ơi!",
+      "english":"- No, Barry! - Mom!"
+   },
+   {  
+      "start":"1271.304",
+      "vietnamese":"Không! Đừng để hắn chạm vào con!",
+      "english":"No! Don't let him touch you!"
+   },
+   {  
+      "start":"1276.708",
+      "vietnamese":"Aah!",
+      "english":"Aah!"
+   },
+   {  
+      "start":"1290.689",
+      "vietnamese":"Gì thế này?",
+      "english":"What is all this?"
+   },
+   {  
+      "start":"1292.325",
+      "vietnamese":"Những nhân chứng từ vụ cướp ở ngân hàng Gold City.",
+      "english":"Witnesses from the robbery at Gold City Bank."
+   },
+   {  
+      "start":"1294.627",
+      "vietnamese":"Bọn cướp lấy mất khoảng 200 ngàn đô.",
+      "english":"Perp made off with 200 grand, more or less."
+   },
+   {  
+      "start":"1296.529",
+      "vietnamese":"- Tóm tên này đi. - Cửa sổ bị thổi bay vào trong,",
+      "english":"- Catch these guys. - The windows blew in."
+   },
+   {  
+      "start":"1299.165",
+      "vietnamese":"nó giống như là... một cơn bão vậy.",
+      "english":"It was like a hurricane."
+   },
+   {  
+      "start":"1301.634",
+      "vietnamese":"Ai cũng chạy trốn.",
+      "english":"Everyone ran for cover."
+   },
+   {  
+      "start":"1303.369",
+      "vietnamese":"Chúng tôi sẽ nhờ người đến phác thảo chân dung thủ phạm,",
+      "english":"We're going to have a sketch artist work with you,"
+   },
+   {  
+      "start":"1305.038",
+      "vietnamese":"nếu bà đồng ý.",
+      "english":"if you feel up to it."
+   },
+   {  
+      "start":"1309.075",
+      "vietnamese":"3 vụ cướp trong vòng 1 tháng,",
+      "english":"Third robbery in a month"
+   },
+   {  
+      "start":"1310.576",
+      "vietnamese":"và lúc nào cũng có một cơn bão kỳ dị.",
+      "english":"where a freak storm precedes it."
+   },
+   {  
+      "start":"1312.245",
+      "vietnamese":"Có vẻ như giống một trong những vụ Thế Giới Kỳ Quái...",
+      "english":"Sounds like one of those \"wide world of weird\" cases"
+   },
+   {  
+      "start":"1314.18",
+      "vietnamese":"- mà Barry bị ám ảnh ấy. - Thằng bé không bị ám ảnh.",
+      "english":"- Barry's obsessed with. - He's not obsessed."
+   },
+   {  
+      "start":"1315.815",
+      "vietnamese":"Tôi đoán là anh chưa đọc blog của nó rồi.",
+      "english":"Guess you haven't read his blog."
+   },
+   {  
+      "start":"1317.083",
+      "vietnamese":"Camera an ninh ở ngân hàng thế nào?",
+      "english":"The security cameras at the bank."
+   },
+   {  
+      "start":"1318.951",
+      "vietnamese":"Bị bắn sạch sẽ.",
+      "english":"Apparently it all shorted out."
+   },
+   {  
+      "start":"1320.72",
+      "vietnamese":"Chúng ta có rất nhiều nhân chứng ở đây mà.",
+      "english":"We got a bunch of witnesses here."
+   },
+   {  
+      "start":"1323.089",
+      "vietnamese":"Tất cả họ đều có điện thoại di động.",
+      "english":"They all have cell phones."
+   },
+   {  
+      "start":"1324.957",
+      "vietnamese":"Bầu trời tối đen, rồi sau đó bùm!",
+      "english":"The sky went black and then, boom."
+   },
+   {  
+      "start":"1327.393",
+      "vietnamese":"Bên trong hệt như bên ngoài.",
+      "english":"Outside was inside."
+   },
+   {  
+      "start":"1329.462",
+      "vietnamese":"Cứ như có bão xảy ra...",
+      "english":"Man, it was like there was a thunderstorm"
+   },
+   {  
+      "start":"1331.097",
+      "vietnamese":"trong ngân hàng vậy.",
+      "english":"in the bank."
+   },
+   {  
+      "start":"1332.565",
+      "vietnamese":"Vukovich, nghi phạm lái một chiếc Mustang màu đen...",
+      "english":"Vukuvich, suspect is driving a black Mustang."
+   },
+   {  
+      "start":"1335.301",
+      "vietnamese":"Biển số 6-Kilo-Charlie-3.",
+      "english":"Partial plate six-kilo-Charlie-three."
+   },
+   {  
+      "start":"1338.371",
+      "vietnamese":"- Tiến hành quét đi. - Đã rõ.",
+      "english":"- Put out an APB. - Copy that."
+   },
+   {  
+      "start":"1343.241",
+      "vietnamese":"Có vẻ như anh đã bị gãy xương cánh tay.",
+      "english":"It looks like you had a distal radius fracture."
+   },
+   {  
+      "start":"1345.945",
+      "vietnamese":"\"Đã bị\" hả?",
+      "english":"Had?"
+   },
+   {  
+      "start":"1348.381",
+      "vietnamese":"Nó lành hết rồi. Trong vòng 3 tiếng.",
+      "english":"It's healed... In three hours."
+   },
+   {  
+      "start":"1350.416",
+      "vietnamese":"Làm sao có chuyện đó được chứ?",
+      "english":"How is that even possible?"
+   },
+   {  
+      "start":"1353.086",
+      "vietnamese":"Chúng tôi vẫn chưa biết chắc.",
+      "english":"We don't know... yet."
+   },
+   {  
+      "start":"1355.922",
+      "vietnamese":"Cậu thật sự cần phải học cách dừng lại đấy.",
+      "english":"You really need to learn how to stop."
+   },
+   {  
+      "start":"1358.358",
+      "vietnamese":"Hôm nay có chuyện gì xảy ra ngoài đó thế?",
+      "english":"What happened out there today?"
+   },
+   {  
+      "start":"1359.759",
+      "vietnamese":"Câu đang chạy rất ổn định,",
+      "english":"You were moving pretty well,"
+   },
+   {  
+      "start":"1361.26",
+      "vietnamese":"và có điều gì đó khiến cậu mất tập trung.",
+      "english":"and then something caused you to lose focus."
+   },
+   {  
+      "start":"1365.365",
+      "vietnamese":"Tôi đã nhớ đến một chuyện.",
+      "english":"I started remembering something."
+   },
+   {  
+      "start":"1372.304",
+      "vietnamese":"Năm tôi 11 tuổi mẹ tôi bị giết.",
+      "english":"When I was 11, my mother was murdered."
+   },
+   {  
+      "start":"1379.378",
+      "vietnamese":"Lúc đó đã rất khuya rồi,",
+      "english":"It was late."
+   },
+   {  
+      "start":"1382.615",
+      "vietnamese":"những tiếng động đánh thức tôi dậy.",
+      "english":"A sound woke me up."
+   },
+   {  
+      "start":"1384.15",
+      "vietnamese":"Tôi xuống dưới lầu và...",
+      "english":"I came downstairs and..."
+   },
+   {  
+      "start":"1388.988",
+      "vietnamese":"Tôi thấy thứ trông như những luồng sấm sét.",
+      "english":"I saw what looked like a ball of lightning."
+   },
+   {  
+      "start":"1392.525",
+      "vietnamese":"Bên trong những tia sét đó,",
+      "english":"Inside the lightning,"
+   },
+   {  
+      "start":"1395.261",
+      "vietnamese":"có một người đàn ông.",
+      "english":"there was a man."
+   },
+   {  
+      "start":"1398.631",
+      "vietnamese":"Chính hắn đã giết mẹ tôi.",
+      "english":"He killed my mom."
+   },
+   {  
+      "start":"1402.201",
+      "vietnamese":"Nhưng họ lại bắt giữ bố tôi.",
+      "english":"They arrested my dad."
+   },
+   {  
+      "start":"1404.37",
+      "vietnamese":"Ông ấy vẫn còn đang ngồi tù ở Iron Heights vì tội giết mẹ tôi.",
+      "english":"He's still sitting in Iron Heights for her murder."
+   },
+   {  
+      "start":"1408.107",
+      "vietnamese":"Tất cả mọi người, cảnh sát, bác sĩ...",
+      "english":"Everyone, the cops, the shrinks,"
+   },
+   {  
+      "start":"1410.543",
+      "vietnamese":"Tất cả họ đều nói rằng điều tôi đã chứng kiến là không tưởng.",
+      "english":"they all told me what I saw was impossible."
+   },
+   {  
+      "start":"1416.715",
+      "vietnamese":"Nhưng nếu kẻ đã giết mẹ tôi...",
+      "english":"But what if the man who killed my mom"
+   },
+   {  
+      "start":"1418.684",
+      "vietnamese":"cũng giống như tôi thì sao?",
+      "english":"was like me?"
+   },
+   {  
+      "start":"1420.42",
+      "vietnamese":"Tôi nghĩ tôi có thể nói một cách chắc chắn rằng...",
+      "english":"Well, I think I can say unequivocally"
+   },
+   {  
+      "start":"1423.289",
+      "vietnamese":"...cậu là người độc nhất vô nhị.",
+      "english":"you are one of a kind."
+   },
+   {  
+      "start":"1431.129",
+      "vietnamese":"Tôi có thể giúp gì cho ngài trinh sát đây không?",
+      "english":"Can I help you, detective?"
+   },
+   {  
+      "start":"1433.332",
+      "vietnamese":"Em có thể thôi hành động như em rất ghét anh...",
+      "english":"You can stop acting like you can't stand me"
+   },
+   {  
+      "start":"1435.201",
+      "vietnamese":"trước mặt bố em rồi đấy.",
+      "english":"when your dad's around."
+   },
+   {  
+      "start":"1436.669",
+      "vietnamese":"Aww.",
+      "english":"Aww."
+   },
+   {  
+      "start":"1438.438",
+      "vietnamese":"Và em thì thích có một anh bạn trai không bị bắn tới chết.",
+      "english":"And I like having a boyfriend who isn't shot to death."
+   },
+   {  
+      "start":"1457.088",
+      "vietnamese":"Cậu không thể cho bố tớ biết được.",
+      "english":"You can't tell my dad."
+   },
+   {  
+      "start":"1459.559",
+      "vietnamese":"Ông ấy không biết chuyện tớ và Eddie.",
+      "english":"He doesn't know about me and Eddie."
+   },
+   {  
+      "start":"1461.494",
+      "vietnamese":"Đâu có vẻ như cậu giữ bí mật với tất cả mọi người.",
+      "english":"Doesn't seem like anyone's in on the secret."
+   },
+   {  
+      "start":"1463.563",
+      "vietnamese":"Tớ đã định nói với cậu.",
+      "english":"I was gonna tell you."
+   },
+   {  
+      "start":"1465.731",
+      "vietnamese":"Khi cậu ở trong bệnh viện,",
+      "english":"When you were in the hospital,"
+   },
+   {  
+      "start":"1467.066",
+      "vietnamese":"Eddie đã trực thay ca của bố tớ...",
+      "english":"Eddie covered my father's shifts"
+   },
+   {  
+      "start":"1468.501",
+      "vietnamese":"để cả hai bố con tớ có thể đến chỗ cậu.",
+      "english":"so that we could both be with you."
+   },
+   {  
+      "start":"1470.536",
+      "vietnamese":"Tớ cảm ơn anh ấy bằng một cốc cà phê,",
+      "english":"I thanked him with a cup of coffee,"
+   },
+   {  
+      "start":"1472.104",
+      "vietnamese":"và mọi chuyện xảy ra một cách tự nhiên.",
+      "english":"and things just kind of happened."
+   },
+   {  
+      "start":"1476.175",
+      "vietnamese":"Và nó rất tuyệt.",
+      "english":"And it's good."
+   },
+   {  
+      "start":"1479.378",
+      "vietnamese":"Hẹn hò với con gái đồng nghiệp,",
+      "english":"Dating your partner's daughter..."
+   },
+   {  
+      "start":"1480.847",
+      "vietnamese":"không phải như thế là vi phạm nguyên tắc sao?",
+      "english":"Isn't that against department regulations?"
+   },
+   {  
+      "start":"1483.249",
+      "vietnamese":"Sao cậu lại bực bội thế?",
+      "english":"- Why are you so upset? -"
+   },
+   {  
+      "start":"1485.084",
+      "vietnamese":"Chỉ là tớ không thích nói dối bố cậu, cậu biết đấy?",
+      "english":"I just don't like having to lie to your dad, you know?"
+   },
+   {  
+      "start":"1499.231",
+      "vietnamese":"Barry?",
+      "english":"Barry?"
+   },
+   {  
+      "start":"1525.624",
+      "vietnamese":"Này! Mardon!",
+      "english":"Hey! Mardon!"
+   },
+   {  
+      "start":"1574.005",
+      "vietnamese":"Tội nghiệp thật đấy.",
+      "english":"That poor man."
+   },
+   {  
+      "start":"1576.442",
+      "vietnamese":"Cái cách mà sương mù xuất hiện,",
+      "english":"The way that fog came in,"
+   },
+   {  
+      "start":"1577.777",
+      "vietnamese":"tớ chưa từng nhìn thấy thứ gì như thế bao giờ.",
+      "english":"I have never seen anything like it."
+   },
+   {  
+      "start":"1579.545",
+      "vietnamese":"Barry! Iris!",
+      "english":"Barry! Iris."
+   },
+   {  
+      "start":"1581.647",
+      "vietnamese":"Con ổn mà bố.",
+      "english":"I'm all right, dad."
+   },
+   {  
+      "start":"1583.883",
+      "vietnamese":"Cậu nghĩ cái quái gì mà...",
+      "english":"What the hell were you thinking"
+   },
+   {  
+      "start":"1585.151",
+      "vietnamese":"- ...dẫn nó đến chỗ này thế hả? - Không, không, không...",
+      "english":"- having her out here? - No, no, no..."
+   },
+   {  
+      "start":"1586.519",
+      "vietnamese":"Và bố đã nói với con rồi! Khi thấy nguy hiểm...",
+      "english":"And I told you, when you see danger,"
+   },
+   {  
+      "start":"1588.154",
+      "vietnamese":"thì chạy đi ngay! Con có phải cảnh sát đâu!",
+      "english":"you run the other way. You're not a cop."
+   },
+   {  
+      "start":"1589.989",
+      "vietnamese":"- Vì bố không chịu để con làm! - Con nói đúng đấy!",
+      "english":"- Because you wouldn't let me. - You're damn right."
+   },
+   {  
+      "start":"1591.524",
+      "vietnamese":"Chú Joe, cháu cần nói chuyện với chú.",
+      "english":"Joe, I need to talk to you."
+   },
+   {  
+      "start":"1592.625",
+      "vietnamese":"- Để sau đi. - Không, ngay bây giờ.",
+      "english":"- It can wait. - No, now."
+   },
+   {  
+      "start":"1597.597",
+      "vietnamese":"Cháu biết kẻ nào làm chuyện này.",
+      "english":"I know who did this."
+   },
+   {  
+      "start":"1599.599",
+      "vietnamese":"Là Clyde Mardon.",
+      "english":"It's Clyde Mardon."
+   },
+   {  
+      "start":"1601.801",
+      "vietnamese":"Cháu biết, ai cũng nghĩ hắn chết khi máy bay nổ...",
+      "english":"I know everybody thinks he died in a plane crash"
+   },
+   {  
+      "start":"1603.836",
+      "vietnamese":"sau vụ nổ phòng thí nghiệm S.T.A.R.",
+      "english":"after the S.T.A.R. Labs explosion,"
+   },
+   {  
+      "start":"1605.037",
+      "vietnamese":"Nhưng hắn vẫn còn sống.",
+      "english":"but he is alive."
+   },
+   {  
+      "start":"1607.673",
+      "vietnamese":"Được rồi, có chuyện gì đó đã xảy ra với hắn vào đêm ấy.",
+      "english":"All right, something happened to him that night."
+   },
+   {  
+      "start":"1609.108",
+      "vietnamese":"Cháu... Cháu nghĩ hắn có thể điều khiển thời tiết.",
+      "english":"I... I think he can control the weather."
+   },
+   {  
+      "start":"1614.547",
+      "vietnamese":"Những vụ cướp gần đây, tất cả chúng đều xảy ra...",
+      "english":"The recent robberies, they all happened during"
+   },
+   {  
+      "start":"1616.616",
+      "vietnamese":"cùng với kiểu thời tiết quái dị.",
+      "english":"freak meteorological events."
+   },
+   {  
+      "start":"1618.317",
+      "vietnamese":"Và ngay khi cháu đối mặt với Mardon,",
+      "english":"And when I just confronted Mardon,"
+   },
+   {  
+      "start":"1620.519",
+      "vietnamese":"cả con đường ngay lập tức ngập chìm trong sương mù.",
+      "english":"the street was instantly enveloped in fog."
+   },
+   {  
+      "start":"1625.157",
+      "vietnamese":"Dĩ nhiên là chú sẽ không tin cháu rồi.",
+      "english":"Of course you don't believe me."
+   },
+   {  
+      "start":"1628.06",
+      "vietnamese":"- Chú chưa từng tin cháu. - Được rồi.",
+      "english":"- You never believe me. - Okay."
+   },
+   {  
+      "start":"1630.563",
+      "vietnamese":"Cháu muốn làm thế ngay bây giờ sao?",
+      "english":"You want to do this now?"
+   },
+   {  
+      "start":"1631.831",
+      "vietnamese":"Ngay tại đây à? Được thôi.",
+      "english":"Out here? Fine."
+   },
+   {  
+      "start":"1633.432",
+      "vietnamese":"Mardon đã chết rồi.",
+      "english":"Mardon is dead."
+   },
+   {  
+      "start":"1635.735",
+      "vietnamese":"Chẳng có điều khiển thời tiết gì hết, Barry.",
+      "english":"There is no controlling the weather, Barry."
+   },
+   {  
+      "start":"1637.903",
+      "vietnamese":"Cũng giống như chẳng có cơn bão sấm sét nào...",
+      "english":"Just like there was no lightning storm"
+   },
+   {  
+      "start":"1639.505",
+      "vietnamese":"trong nhà cháu đêm hôm đó thôi.",
+      "english":"in your house that night."
+   },
+   {  
+      "start":"1641.04",
+      "vietnamese":"Đó là điều mà bộ não giúp cho một cậu bé đang sợ hãi...",
+      "english":"It was your brain helping a scared little boy"
+   },
+   {  
+      "start":"1643.075",
+      "vietnamese":"...chấp nhận điều mà nó nhìn thấy.",
+      "english":"accept what he saw."
+   },
+   {  
+      "start":"1644.276",
+      "vietnamese":"- Bố cháu không giết mẹ cháu. - Có đấy!",
+      "english":"My dad did not murder my mother."
+   },
+   {  
+      "start":"1645.911",
+      "vietnamese":"Bố cháu đã giết mẹ cháu, Barry.",
+      "english":"Yes, he did! Your dad killed your mother, Barry!"
+   },
+   {  
+      "start":"1647.68",
+      "vietnamese":"Chú rất tiếc con trai à!",
+      "english":"I am sorry, son!"
+   },
+   {  
+      "start":"1649.515",
+      "vietnamese":"Chú biết điều đó, thẩm phán cũng thế.",
+      "english":"But I knew it, the jury knew it,"
+   },
+   {  
+      "start":"1651.05",
+      "vietnamese":"Và giờ anh ta đang phải trả giá cho việc làm của mình.",
+      "english":"and now he's paying for what he did."
+   },
+   {  
+      "start":"1652.251",
+      "vietnamese":"- Đủ rồi đấy bố! - Không, Iris!",
+      "english":"- Dad, enough! - Unh-uh, Iris."
+   },
+   {  
+      "start":"1654.02",
+      "vietnamese":"Chú đã cố hết sức chăm sóc cho cháu...",
+      "english":"I have done my best to take care of you"
+   },
+   {  
+      "start":"1655.421",
+      "vietnamese":"kể từ đêm hôm đó, và chú chưa từng đòi hỏi...",
+      "english":"since that night, and I have never asked"
+   },
+   {  
+      "start":"1656.889",
+      "vietnamese":"sự báo đáp, thậm chí một câu cảm ơn cũng không,",
+      "english":"for anything in return, not even a thank you,"
+   },
+   {  
+      "start":"1658.591",
+      "vietnamese":"Nhưng điều mà chú thật sự muốn bây giờ là...",
+      "english":"but what I do ask now is that you"
+   },
+   {  
+      "start":"1661.193",
+      "vietnamese":"dù chỉ một lần, cháu hãy nhìn nhận thế giới này theo đúng với bản chất thật của nó.",
+      "english":"for once in your life see things as they are."
+   },
+   {  
+      "start":"1674.739",
+      "vietnamese":"Anh sẽ không tin nổi chuyện này đâu.",
+      "english":"You're not going to believe this."
+   },
+   {  
+      "start":"1676.075",
+      "vietnamese":"Chúng ta đã có được bản phác thảo...",
+      "english":"We got the eyewitness sketch"
+   },
+   {  
+      "start":"1677.343",
+      "vietnamese":"tên cướp ngân hàng do nhân chứng cung cấp.",
+      "english":"of the robber from the bank job."
+   },
+   {  
+      "start":"1679.745",
+      "vietnamese":"Nếu tôi không biết chuyện đã xảy ra, thì tôi sẽ nói đó chính là Clyde Mardon.",
+      "english":"If I didn't know better, I'd say that's Clyde Mardon."
+   },
+   {  
+      "start":"1683.749",
+      "vietnamese":"Nhưng không thể nào có chuyện đó được.",
+      "english":"But that's impossible."
+   },
+   {  
+      "start":"1685.551",
+      "vietnamese":"Hắn đã chết rồi đúng chứ?",
+      "english":"He's dead, right?"
+   },
+   {  
+      "start":"1688.387",
+      "vietnamese":"Tôi không phải là người duy nhất bị ảnh hưởng...",
+      "english":"I wasn't the only one affected"
+   },
+   {  
+      "start":"1689.922",
+      "vietnamese":"bởi máy gia tốc hạt đúng không?",
+      "english":"by the particle accelerator explosion, was I?"
+   },
+   {  
+      "start":"1694.96",
+      "vietnamese":"Chúng tôi vẫn chưa biết chắc.",
+      "english":"We don't know for sure."
+   },
+   {  
+      "start":"1696.162",
+      "vietnamese":"Ông bảo thành phố này đã được an toàn,",
+      "english":"You said the city was safe,"
+   },
+   {  
+      "start":"1697.463",
+      "vietnamese":"rằng nguy hiểm không còn tồn tại nữa.",
+      "english":"that there was no residual danger."
+   },
+   {  
+      "start":"1699.732",
+      "vietnamese":"Nhưng đó không phải là sự thật, đêm đó thật sự đã xảy ra chuyện gì?",
+      "english":"But that's not true, so what really happened that night?"
+   },
+   {  
+      "start":"1704.303",
+      "vietnamese":"Thì...",
+      "english":"Well..."
+   },
+   {  
+      "start":"1705.938",
+      "vietnamese":"Khi máy gia tốc hạt hoạt động,",
+      "english":"The accelerator went active."
+   },
+   {  
+      "start":"1707.807",
+      "vietnamese":"chúng tôi cảm thấy mình như những người hùng, và sau đó,",
+      "english":"We all felt like heroes, and then..."
+   },
+   {  
+      "start":"1711.61",
+      "vietnamese":"mọi chuyện trở nên mất kiểm soát.",
+      "english":"It all went wrong."
+   },
+   {  
+      "start":"1712.845",
+      "vietnamese":"Ranh giới giữa các chiều bị phá vỡ,",
+      "english":"The dimensional barrier ruptured,"
+   },
+   {  
+      "start":"1714.747",
+      "vietnamese":"giải phóng những loại năng lượng kỳ lạ vào thế giới của chúng ta.",
+      "english":"unleashing unknown energies into our world."
+   },
+   {  
+      "start":"1717.183",
+      "vietnamese":"Phản vật chất, năng lượng tối, các nguyên tố X...",
+      "english":"Antimatter, dark energy, x-elements..."
+   },
+   {  
+      "start":"1718.751",
+      "vietnamese":"Tất cả chỉ là lý thuyết mà thôi!",
+      "english":"Those are all theoretical."
+   },
+   {  
+      "start":"1720.119",
+      "vietnamese":"Và cậu tin vào lý thuyết đến mức nào?",
+      "english":"And how theoretical are you?"
+   },
+   {  
+      "start":"1724.155",
+      "vietnamese":"Chúng tôi đã thiết lập bản đồ...",
+      "english":"We mapped the dispersion"
+   },
+   {  
+      "start":"1725.624",
+      "vietnamese":"toàn bộ quanh khu vực thành phố Central.",
+      "english":"throughout and around Central City."
+   },
+   {  
+      "start":"1726.926",
+      "vietnamese":"Nhưng chúng tôi không có cách nào biết được...",
+      "english":"Though we have no way of knowing"
+   },
+   {  
+      "start":"1728.127",
+      "vietnamese":"chắc chắn rằng thứ gì... hay ai đã bị ảnh hưởng.",
+      "english":"exactly what or... Who was exposed,"
+   },
+   {  
+      "start":"1730.73",
+      "vietnamese":"Chúng tôi đang tìm kiếm những người khác,",
+      "english":"we've been searching for other"
+   },
+   {  
+      "start":"1732.765",
+      "vietnamese":"- những người siêu đẳng, giống như cậu vậy. - \"Những người siêu đẳng\" á?",
+      "english":"- meta-humans like yourself. - \"Meta-humans\"?"
+   },
+   {  
+      "start":"1735.768",
+      "vietnamese":"Chúng tôi gọi họ như thế.",
+      "english":"That's what we're calling them."
+   },
+   {  
+      "start":"1737.737",
+      "vietnamese":"Hôm nay tôi đã nhìn thấy một người.",
+      "english":"I saw one today."
+   },
+   {  
+      "start":"1739.405",
+      "vietnamese":"Hắn là một tên cướp ngân hàng, và hắn có thể điều khiển được thời tiết.",
+      "english":"He's a bank robber, and he can control the weather."
+   },
+   {  
+      "start":"1741.674",
+      "vietnamese":"Chuyện này ngày càng hay hơn.",
+      "english":"This just keeps getting cooler."
+   },
+   {  
+      "start":"1743.642",
+      "vietnamese":"Chuyện này không hay chút nào!",
+      "english":"This is not cool."
+   },
+   {  
+      "start":"1745.478",
+      "vietnamese":"Được chứ? Một người đã chết.",
+      "english":"All right? A man died."
+   },
+   {  
+      "start":"1747.747",
+      "vietnamese":"Mardon chắc hẳn đã có được sức mạnh theo cách giống như tôi.",
+      "english":"Mardon must have gotten his powers the same way I did."
+   },
+   {  
+      "start":"1750.816",
+      "vietnamese":"Từ đám mây bão.",
+      "english":"From the storm cloud."
+   },
+   {  
+      "start":"1752.218",
+      "vietnamese":"Và hắn vẫn còn ở ngoài đó.",
+      "english":"He's still out there."
+   },
+   {  
+      "start":"1754.286",
+      "vietnamese":"Chúng ta phải ngăn chặn hắn trước khi hắn làm hại đến ai khác nữa.",
+      "english":"We have to stop him before he hurts anyone else."
+   },
+   {  
+      "start":"1756.489",
+      "vietnamese":"Barry!",
+      "english":"Barry!"
+   },
+   {  
+      "start":"1758.324",
+      "vietnamese":"Đó là công việc của cảnh sát.",
+      "english":"That's a job for the police."
+   },
+   {  
+      "start":"1759.558",
+      "vietnamese":"Tôi làm việc cho cảnh sát mà.",
+      "english":"I work for the police."
+   },
+   {  
+      "start":"1760.86",
+      "vietnamese":"Với tư cách một trợ lý pháp y.",
+      "english":"As a forensic assistant."
+   },
+   {  
+      "start":"1763.195",
+      "vietnamese":"Ông là người phải chịu trách nhiệm cho chuyện này.",
+      "english":"You're responsible for this."
+   },
+   {  
+      "start":"1764.697",
+      "vietnamese":"Cho hắn ta.",
+      "english":"For him."
+   },
+   {  
+      "start":"1765.798",
+      "vietnamese":"Điều quan trọng chính là cậu!",
+      "english":"What's important is you!"
+   },
+   {  
+      "start":"1768.734",
+      "vietnamese":"Chứ không phải tôi. Tôi đã mất tất cả.",
+      "english":"Not me. I lost everything."
+   },
+   {  
+      "start":"1771.403",
+      "vietnamese":"Tôi mất đi công ty.",
+      "english":"I lost my company."
+   },
+   {  
+      "start":"1773.005",
+      "vietnamese":"Tôi mất đi danh tiếng.",
+      "english":"I lost my reputation."
+   },
+   {  
+      "start":"1774.54",
+      "vietnamese":"Tôi mất đi sự tự do.",
+      "english":"I lost my freedom."
+   },
+   {  
+      "start":"1776.542",
+      "vietnamese":"Và sau đó cậu bị gãy tay,",
+      "english":"And then you broke your arm,"
+   },
+   {  
+      "start":"1778.577",
+      "vietnamese":"và nó lành lại trong vòng 3 giờ.",
+      "english":"and it healed in three hours."
+   },
+   {  
+      "start":"1780.746",
+      "vietnamese":"Bên trong cơ thể cậu có thể là một tấm bản đồ...",
+      "english":"Inside your body could be a map"
+   },
+   {  
+      "start":"1783.349",
+      "vietnamese":"dẫn đến một thế giới liệu pháp gen hoàn toàn mới,",
+      "english":"to a whole new world... Genetic therapies,"
+   },
+   {  
+      "start":"1786.218",
+      "vietnamese":"vắc xin, thuốc, cả một kho tàng, Barry.",
+      "english":"vaccines, medicines, treasures buried deep"
+   },
+   {  
+      "start":"1789.355",
+      "vietnamese":"Nằm trong tế bào của cậu và chúng tôi không thể mạo hiểm để mất tất cả...",
+      "english":"within your cells and we cannot risk losing everything"
+   },
+   {  
+      "start":"1792.691",
+      "vietnamese":"chỉ vì cậu muốn ra ngoài kia và đóng vai một người hùng.",
+      "english":"because you want to go out and play hero!"
+   },
+   {  
+      "start":"1796.562",
+      "vietnamese":"Cậu không phải là một người hùng.",
+      "english":"You're not a hero."
+   },
+   {  
+      "start":"1799.665",
+      "vietnamese":"Cậu chỉ là một chàng trai trẻ bị sét đánh mà thôi.",
+      "english":"You are just a young man who was struck by lightning."
+   },
+   {  
+      "start":"1822.054",
+      "vietnamese":"Tôi không làm chuyện này.",
+      "english":"I didn't do this."
+   },
+   {  
+      "start":"1823.355",
+      "vietnamese":"Tôi thề có Chúa là tôi không làm chuyện này.",
+      "english":"I swear to God, I didn't do this."
+   },
+   {  
+      "start":"1825.057",
+      "vietnamese":"Họ đưa bố đi đâu thế?",
+      "english":"Dad, why are they taking you?"
+   },
+   {  
+      "start":"1826.692",
+      "vietnamese":"- Barry, đừng vào trong nhà. - Mẹ đâu rồi ạ?",
+      "english":"- Barry, don't go in the house. - Where's mom?"
+   },
+   {  
+      "start":"1828.561",
+      "vietnamese":"Rồi con trai tôi sẽ thế nào?",
+      "english":"What's gonna happen to my son?"
+   },
+   {  
+      "start":"1829.562",
+      "vietnamese":"- Bố ơi! - Barry!",
+      "english":"- Dad! - Barry!"
+   },
+   {  
+      "start":"1830.996",
+      "vietnamese":"- Bố ơi! - Tránh xa căn nhà ra!",
+      "english":"- Dad! - Stay out of the house!"
+   },
+   {  
+      "start":"1833.866",
+      "vietnamese":"Barry!",
+      "english":"Barry!"
+   },
+   {  
+      "start":"1838.237",
+      "vietnamese":"Joe, cậu biết gia đình này sao?",
+      "english":"Joe, you know these people?"
+   },
+   {  
+      "start":"1840.172",
+      "vietnamese":"Con gái tôi và con trai họ là bạn thân.",
+      "english":"My daughter's best friends with their kid."
+   },
+   {  
+      "start":"1842.641",
+      "vietnamese":"- Tôi rất tiếc. - Mm.",
+      "english":"- I'm sorry. - Mm."
+   },
+   {  
+      "start":"1852.45",
+      "vietnamese":"- Mẹ ơi. - Barry.",
+      "english":"- Mom. - Barry."
+   },
+   {  
+      "start":"1856.222",
+      "vietnamese":"Mẹ ơi!",
+      "english":"Mom!"
+   },
+   {  
+      "start":"1871.236",
+      "vietnamese":"Vậy, đó chính là câu chuyện của tôi.",
+      "english":"So that's my story."
+   },
+   {  
+      "start":"1872.938",
+      "vietnamese":"Tôi đã dành cả đời để tìm kiếm một điều không tưởng.",
+      "english":"I've spent my whole life searching for the impossible,"
+   },
+   {  
+      "start":"1875.975",
+      "vietnamese":"Tôi chưa từng tưởng tượng được rằng chính tôi...",
+      "english":"never imagining that I would"
+   },
+   {  
+      "start":"1879.912",
+      "vietnamese":"cũng sẽ trở thành một điều không tưởng.",
+      "english":"become the impossible."
+   },
+   {  
+      "start":"1887.619",
+      "vietnamese":"Vậy tại sao cậu lại đến tìm tôi?",
+      "english":"So why come to me?"
+   },
+   {  
+      "start":"1890.055",
+      "vietnamese":"Có điều gì đó mách bảo tôi rằng cậu không chạy 600 dặm...",
+      "english":"Something tells me you didn't just run 600 Miles"
+   },
+   {  
+      "start":"1892.291",
+      "vietnamese":"đến đây chỉ để chào hỏi một người bạn.",
+      "english":"to say \"hi\" to a friend."
+   },
+   {  
+      "start":"1894.226",
+      "vietnamese":"Cả cuộc đời mình, tôi luôn muốn làm được những việc trọng đại.",
+      "english":"All my life, I've wanted to just do more..."
+   },
+   {  
+      "start":"1899.231",
+      "vietnamese":"Trở thành một người vượt trội.",
+      "english":"Be more."
+   },
+   {  
+      "start":"1901.033",
+      "vietnamese":"Và giờ thì tôi đã có được điều đó.",
+      "english":"And now I am."
+   },
+   {  
+      "start":"1902.468",
+      "vietnamese":"Và cơ hội đầu tiên để tôi giúp được ai đó,",
+      "english":"And the first chance I get to help someone,"
+   },
+   {  
+      "start":"1905.137",
+      "vietnamese":"thì chính tôi đã phá hỏng nó.",
+      "english":"I screw up."
+   },
+   {  
+      "start":"1907.873",
+      "vietnamese":"Nếu Wells đã nói đúng thì sao?",
+      "english":"What if Wells is right?"
+   },
+   {  
+      "start":"1909.708",
+      "vietnamese":"Nếu tôi không phải là một người hùng thì sao?",
+      "english":"What if I'm not a hero?"
+   },
+   {  
+      "start":"1911.477",
+      "vietnamese":"Nếu như tôi chỉ là một gã bị sét đánh thôi thì sao?",
+      "english":"What if I'm just some guy who was struck by lightning?"
+   },
+   {  
+      "start":"1913.812",
+      "vietnamese":"Tôi không nghĩ là những tia sét đó...",
+      "english":"I don't think that bolt of lightning"
+   },
+   {  
+      "start":"1915.447",
+      "vietnamese":"đã đánh vào cậu, Barry.",
+      "english":"struck you, Barry."
+   },
+   {  
+      "start":"1918.05",
+      "vietnamese":"Tôi nghĩ là nó đã lựa chọn cậu.",
+      "english":"I think it chose you."
+   },
+   {  
+      "start":"1922.321",
+      "vietnamese":"Tôi chỉ không chắc là tôi có giống anh không, Oliver.",
+      "english":"I'm just not sure I'm like you, Oliver."
+   },
+   {  
+      "start":"1925.491",
+      "vietnamese":"Tôi không biết tôi có thể trở thành... một cảnh vệ hay không.",
+      "english":"I don't know if I can be some... vigilante."
+   },
+   {  
+      "start":"1928.627",
+      "vietnamese":"Cậu có thể làm được hơn thế nữa.",
+      "english":"You can be better."
+   },
+   {  
+      "start":"1932.665",
+      "vietnamese":"Bởi vì cậu có thể truyền cảm hứng cho mọi người,",
+      "english":"Because you can inspire people"
+   },
+   {  
+      "start":"1936.635",
+      "vietnamese":"theo một cách mà tôi không bao giờ có thể làm được...",
+      "english":"in a way that I never could..."
+   },
+   {  
+      "start":"1939.772",
+      "vietnamese":"Bảo vệ thành phố của cậu như một thiên thần hộ mệnh,",
+      "english":"Watching over your city like a guardian angel..."
+   },
+   {  
+      "start":"1942.174",
+      "vietnamese":"tạo nên những sự khác biệt...",
+      "english":"Making a difference..."
+   },
+   {  
+      "start":"1945.945",
+      "vietnamese":"cứu giúp mọi người...",
+      "english":"Saving people..."
+   },
+   {  
+      "start":"1948.948",
+      "vietnamese":"Nhanh như một tia chớp.",
+      "english":"In a flash."
+   },
+   {  
+      "start":"1954.986",
+      "vietnamese":"Cứ làm theo những điều mà cậu muốn.",
+      "english":"Take your own advice."
+   },
+   {  
+      "start":"1957.856",
+      "vietnamese":"Và hãy đeo một chiếc mặt nạ.",
+      "english":"Wear a mask."
+   },
+   {  
+      "start":"1966.965",
+      "vietnamese":"Ngầu ghê.",
+      "english":"Cool."
+   },
+   {  
+      "start":"1972.103",
+      "vietnamese":"Ngầu ghê.",
+      "english":"Cool."
+   },
+   {  
+      "start":"1980.211",
+      "vietnamese":"Tôi đã xem qua những vụ án chưa được phá...",
+      "english":"I've been going over unsolved cases"
+   },
+   {  
+      "start":"1981.213",
+      "vietnamese":"trong 9 tháng qua,",
+      "english":"from the past nine months,"
+   },
+   {  
+      "start":"1982.514",
+      "vietnamese":"và có sự gia tăng mạnh...",
+      "english":"and there's been a sharp increase"
+   },
+   {  
+      "start":"1983.983",
+      "vietnamese":"ở những trường hợp chết không rõ nguyên nhân và bị mất tích.",
+      "english":"in unexplained deaths and missing people."
+   },
+   {  
+      "start":"1986.385",
+      "vietnamese":"Những kẻ siêu đẳng của các cậu có vẻ bận rộn quá đấy.",
+      "english":"Your meta-humans have been busy."
+   },
+   {  
+      "start":"1987.853",
+      "vietnamese":"Tôi không đổ lỗi cho mọi người,",
+      "english":"Now, I'm not blaming you."
+   },
+   {  
+      "start":"1989.521",
+      "vietnamese":"tôi biết các cậu không hề muốn những chuyện này xảy ra.",
+      "english":"I know you didn't mean for any of this to happen."
+   },
+   {  
+      "start":"1991.824",
+      "vietnamese":"Tôi biết tất cả mọi người ở đây đều mất đi điều gì đó.",
+      "english":"I know you all lost something."
+   },
+   {  
+      "start":"1994.093",
+      "vietnamese":"Nhưng tôi cần hai người giúp để bắt Mardon,",
+      "english":"But I need your help to catch Mardon"
+   },
+   {  
+      "start":"1995.561",
+      "vietnamese":"và tất cả những kẻ giống hắn ta ngoài kia.",
+      "english":"and anyone else out there like him."
+   },
+   {  
+      "start":"1997.563",
+      "vietnamese":"Nhưng tôi không thể làm được điều đó nếu không có hai người.",
+      "english":"But I can't do it without you."
+   },
+   {  
+      "start":"2004.268",
+      "vietnamese":"Nếu chúng ta định làm chuyện này...",
+      "english":"If we're gonna do this,"
+   },
+   {  
+      "start":"2006.438",
+      "vietnamese":"...thì tôi có thứ này có lẽ sẽ giúp được cậu đấy.",
+      "english":"I have something that might help."
+   },
+   {  
+      "start":"2008.674",
+      "vietnamese":"Một thứ mà tôi đang nghịch.",
+      "english":"Something I've been playing with."
+   },
+   {  
+      "start":"2011.51",
+      "vietnamese":"Tôi thiết kế nó để thay thế cho...",
+      "english":"Designed to replace the turnouts"
+   },
+   {  
+      "start":"2012.878",
+      "vietnamese":"trang phục truyền thống của lính cứu hỏa.",
+      "english":"firefighters traditionally wear."
+   },
+   {  
+      "start":"2015.014",
+      "vietnamese":"Tôi nghĩ nếu phòng thí nghiệm S.T.A.R. làm điều gì đó có ích...",
+      "english":"I thought if S.T.A.R. Labs could do something nice"
+   },
+   {  
+      "start":"2016.782",
+      "vietnamese":"cho cộng đồng, thì có lẽ mọi người sẽ không còn...",
+      "english":"for the community, maybe people wouldn't"
+   },
+   {  
+      "start":"2018.217",
+      "vietnamese":"thù ghét tiến sĩ Wells đến thế nữa.",
+      "english":"be so angry at Dr. Wells anymore."
+   },
+   {  
+      "start":"2020.185",
+      "vietnamese":"Và thứ này sẽ giúp tôi thế nào đây?",
+      "english":"How is it going to help me?"
+   },
+   {  
+      "start":"2022.187",
+      "vietnamese":"Nó được làm từ tripolymer tăng cường,",
+      "english":"It's made of a reinforced tri-polymer."
+   },
+   {  
+      "start":"2023.756",
+      "vietnamese":"nó có khả năng chịu nhiệt và ma sát cực kỳ tốt.",
+      "english":"It's heat and abrasive resistant,"
+   },
+   {  
+      "start":"2025.591",
+      "vietnamese":"Vậy nên nó sẽ chịu được với mức...",
+      "english":"so it should withstand your moving"
+   },
+   {  
+      "start":"2027.059",
+      "vietnamese":"di chuyển vận tốc cao của cậu.",
+      "english":"at high-velocity speeds."
+   },
+   {  
+      "start":"2028.394",
+      "vietnamese":"Và thiết kế khí động học...",
+      "english":"And the aerodynamic design"
+   },
+   {  
+      "start":"2029.728",
+      "vietnamese":"sẽ giúp cậu kiểm soát được cơ thể.",
+      "english":"should help you maintain control."
+   },
+   {  
+      "start":"2031.096",
+      "vietnamese":"Cộng thêm, trong trang phục này có bộ cảm biến,",
+      "english":"Plus, it has built-in sensors"
+   },
+   {  
+      "start":"2032.564",
+      "vietnamese":"nên chúng tôi có thể theo dõi Vitals của cậu...",
+      "english":"so we can track your vitals"
+   },
+   {  
+      "start":"2034.033",
+      "vietnamese":"và giữ liên lạc với cậu từ nơi này.",
+      "english":"and stay in contact with you from here."
+   },
+   {  
+      "start":"2035.501",
+      "vietnamese":"Cảm ơn nha.",
+      "english":"Thanks."
+   },
+   {  
+      "start":"2036.869",
+      "vietnamese":"Giờ thì chúng ta có thể tìm Mardon bằng cách nào đây?",
+      "english":"Now how do we find Mardon?"
+   },
+   {  
+      "start":"2038.504",
+      "vietnamese":"Tôi đã kích hoạt lại vệ tinh của phòng thí nghiệm S.T.A.R.,",
+      "english":"I retasked S.T.A.R. Labs satellite"
+   },
+   {  
+      "start":"2040.439",
+      "vietnamese":"để theo dõi khí hậu bất thường diễn ra...",
+      "english":"to track meteorological abnormalities"
+   },
+   {  
+      "start":"2042.141",
+      "vietnamese":"ở thành phố Central.",
+      "english":"over Central City."
+   },
+   {  
+      "start":"2043.275",
+      "vietnamese":"Và chúng ta vừa có được một kết quả.",
+      "english":"We just got a ping."
+   },
+   {  
+      "start":"2044.676",
+      "vietnamese":"Áp suất khí quyển giảm đến 20 milibar...",
+      "english":"Atmospheric pressure dropped 20 millibars"
+   },
+   {  
+      "start":"2046.612",
+      "vietnamese":"chỉ trong vòng vài giây.",
+      "english":"in a matter of seconds."
+   },
+   {  
+      "start":"2048.647",
+      "vietnamese":"Tôi đã xác định vị trí tại một trang trại phía Tây thành phố.",
+      "english":"I've tracked it to a farm just west of the city."
+   },
+   {  
+      "start":"2052.984",
+      "vietnamese":"Tôi không nói rằng Mardon vẫn còn sống,",
+      "english":"I'm not saying Mardon is alive."
+   },
+   {  
+      "start":"2055.754",
+      "vietnamese":"nhưng nếu đúng như thế, thì đây sẽ là nơi cuối cùng...",
+      "english":"But if he was, this is the last place"
+   },
+   {  
+      "start":"2057.256",
+      "vietnamese":"mà hắn và anh trai hắn ẩn náu.",
+      "english":"him and his brother hid out."
+   },
+   {  
+      "start":"2058.59",
+      "vietnamese":"Đi thôi.",
+      "english":"Let's go."
+   },
+   {  
+      "start":"2071.502",
+      "vietnamese":"Mardon?",
+      "english":"Mardon?"
+   },
+   {  
+      "start":"2073.105",
+      "vietnamese":"Đứng lên.",
+      "english":"On your feet."
+   },
+   {  
+      "start":"2074.74",
+      "vietnamese":"Đưa hai tay lên đầu.",
+      "english":"Hands on your head."
+   },
+   {  
+      "start":"2076.241",
+      "vietnamese":"Bọn mày tóm được tao rồi.",
+      "english":"You got me."
+   },
+   {  
+      "start":"2080.311",
+      "vietnamese":"Vào đêm xảy ra cơn bão, sau vụ nổ ở phòng thí nghiệm S.T.A.R.",
+      "english":"The night of the storm, after S.T.A.R. Labs blew,"
+   },
+   {  
+      "start":"2084.45",
+      "vietnamese":"Sau khi máy bay của bọn tao bị rơi,",
+      "english":"after our plane went down,"
+   },
+   {  
+      "start":"2086.251",
+      "vietnamese":"tao tỉnh dậy trên nền đất và vẫn còn sống.",
+      "english":"and I woke up on the ground alive,"
+   },
+   {  
+      "start":"2088.087",
+      "vietnamese":"Khi tao nhìn thấy những điều tao có thể làm, tao đã hiểu ra được.",
+      "english":"when I saw what I can do, I understood."
+   },
+   {  
+      "start":"2093.292",
+      "vietnamese":"Tao chính là Chúa trời.",
+      "english":"I am God."
+   },
+   {  
+      "start":"2094.46",
+      "vietnamese":"Câm mồm lại đi!",
+      "english":"Shut the hell up."
+   },
+   {  
+      "start":"2097.596",
+      "vietnamese":"Quay lại đây.",
+      "english":"Turn around."
+   },
+   {  
+      "start":"2107.905",
+      "vietnamese":"Bọn mày nghĩ súng có thể ngăn cản được Chúa sao?",
+      "english":"Do you think that your guns can stop God?"
+   },
+   {  
+      "start":"2110.375",
+      "vietnamese":"Chúa thì cần quái gì phải cướp ngân hàng hả?",
+      "english":"Why in the hell would God need to rob banks?"
+   },
+   {  
+      "start":"2113.979",
+      "vietnamese":"Mày nói đúng.",
+      "english":"You're right."
+   },
+   {  
+      "start":"2115.981",
+      "vietnamese":"Tao đã suy nghĩ quá đơn giản.",
+      "english":"I've been thinking too small."
+   },
+   {  
+      "start":"2155.453",
+      "vietnamese":"Barry! Barry!",
+      "english":"Barry! Barry!"
+   },
+   {  
+      "start":"2156.655",
+      "vietnamese":"Thứ này đang tiến đến gần hơn.",
+      "english":"This thing's getting closer."
+   },
+   {  
+      "start":"2158.29",
+      "vietnamese":"Tốc độ gió 200 dặm một giờ và vẫn đang tăng lên.",
+      "english":"Wind speeds are 200 Miles-per-hour and increasing."
+   },
+   {  
+      "start":"2160.692",
+      "vietnamese":"Barry, cậu có nghe tôi nói không?",
+      "english":"Barry, can you hear me?"
+   },
+   {  
+      "start":"2161.76",
+      "vietnamese":"Có. Tôi nghe rất rõ.",
+      "english":"Yeah. Loud and clear."
+   },
+   {  
+      "start":"2163.629",
+      "vietnamese":"Nếu cứ tiếp tục như thế, nó có thể trở thành cơn lốc xoáy cấp F5 đấy.",
+      "english":"If it keeps up, this could become an F-5 tornado."
+   },
+   {  
+      "start":"2168.033",
+      "vietnamese":"Nhưng nó đang hướng thẳng đến thành phố.",
+      "english":"But it's headed towards the city."
+   },
+   {  
+      "start":"2169.201",
+      "vietnamese":"Làm sao tôi có thể ngăn nó lại đây? Các cậu?",
+      "english":"How do I stop it? Guys?"
+   },
+   {  
+      "start":"2175.306",
+      "vietnamese":"Nếu như tôi làm tan lốc xoáy thì sao?",
+      "english":"What if I unravel it?"
+   },
+   {  
+      "start":"2176.742",
+      "vietnamese":"Cậu làm thế bằng cách quái nào chứ?",
+      "english":"How the hell are you going to do that?"
+   },
+   {  
+      "start":"2178.377",
+      "vietnamese":"Tôi sẽ chạy xung quanh theo hướng ngược lại...",
+      "english":"I'll run around it in the opposite direction,"
+   },
+   {  
+      "start":"2180.279",
+      "vietnamese":"làm phân tán điểm gốc của nó.",
+      "english":"cut off its legs."
+   },
+   {  
+      "start":"2182.047",
+      "vietnamese":"Cậu ấy sẽ phải đạt đến tốc độ 700 dặm một giờ để làm được điều đó.",
+      "english":"He'd have to clock 700 Miles-per-hour to do that."
+   },
+   {  
+      "start":"2183.782",
+      "vietnamese":"Cơ thể cậu có lẽ sẽ không chịu được tốc độ đó đâu.",
+      "english":"Your body may not be able to handle those speeds."
+   },
+   {  
+      "start":"2185.851",
+      "vietnamese":"Cậu sẽ chết đấy.",
+      "english":"You'll die."
+   },
+   {  
+      "start":"2187.386",
+      "vietnamese":"Tôi buộc phải thử thôi.",
+      "english":"I have to try."
+   },
+   {  
+      "start":"2200.798",
+      "vietnamese":"Bộ trang phục hoàn toàn chịu được.",
+      "english":"The suit's holding up."
+   },
+   {  
+      "start":"2203.068",
+      "vietnamese":"- Nhưng cậu ấy thì không. - Cậu ấy có thể làm được mà.",
+      "english":"- But he's not. - He can do it."
+   },
+   {  
+      "start":"2204.87",
+      "vietnamese":"Tôi biết là cậu ấy có thể làm được.",
+      "english":"I know he can do it."
+   },
+   {  
+      "start":"2221.219",
+      "vietnamese":"Hắn ta quá mạnh.",
+      "english":"It's too strong!"
+   },
+   {  
+      "start":"2225.09",
+      "vietnamese":"Đã đến lúc phải nghĩ đến những điều lớn lao hơn rồi.",
+      "english":"It's time to think big."
+   },
+   {  
+      "start":"2233.331",
+      "vietnamese":"Cậu có thể làm được mà, Barry.",
+      "english":"You can do this, Barry."
+   },
+   {  
+      "start":"2235.867",
+      "vietnamese":"Cậu nói đúng.",
+      "english":"You were right."
+   },
+   {  
+      "start":"2237.002",
+      "vietnamese":"Tôi phải chịu trách nhiệm cho tất cả những chuyện này.",
+      "english":"I am responsible for all of this."
+   },
+   {  
+      "start":"2239.371",
+      "vietnamese":"Có rất nhiều người đã bị tổn hại...",
+      "english":"So many people have been hurt"
+   },
+   {  
+      "start":"2241.34",
+      "vietnamese":"...vì tôi, và khi tôi nhìn vào cậu,",
+      "english":"because of me, and when I looked at you,"
+   },
+   {  
+      "start":"2242.941",
+      "vietnamese":"tôi chỉ thấy rằng có thể cậu sẽ trở thành một nạn nhân khác vì sự ngạo mạn của tôi,",
+      "english":"all I saw was another potential victim of my hubris."
+   },
+   {  
+      "start":"2245.978",
+      "vietnamese":"và đúng thế, chính tôi đã tạo ra mớ hỗn độn này,",
+      "english":"And yes, I created this madness,"
+   },
+   {  
+      "start":"2247.546",
+      "vietnamese":"nhưng cậu, Barry, cậu có thể ngăn chặn được nó.",
+      "english":"but you, Barry, you can stop it."
+   },
+   {  
+      "start":"2250.816",
+      "vietnamese":"Cậu có thể làm được mà!",
+      "english":"You can do this."
+   },
+   {  
+      "start":"2253.185",
+      "vietnamese":"Giờ thì chạy đi! Barry, chạy đi!",
+      "english":"Now run, Barry, run!"
+   },
+   {  
+      "start":"2302.533",
+      "vietnamese":"Barry?",
+      "english":"Barry?"
+   },
+   {  
+      "start":"2306.437",
+      "vietnamese":"Ê này!",
+      "english":"Hey."
+   },
+   {  
+      "start":"2312.943",
+      "vietnamese":"Tao không nghĩ là còn có những kẻ khác giống tao.",
+      "english":"I didn't think there was anyone else like me."
+   },
+   {  
+      "start":"2316.248",
+      "vietnamese":"Tôi không giống anh.",
+      "english":"I'm not like you."
+   },
+   {  
+      "start":"2318.35",
+      "vietnamese":"Anh là một tên sát nhân.",
+      "english":"You're a murderer."
+   },
+   {  
+      "start":"2325.156",
+      "vietnamese":"Barry? Kết thúc rồi!",
+      "english":"- Barry? - It's over."
+   },
+   {  
+      "start":"2326.892",
+      "vietnamese":"Tôi không sao.",
+      "english":"I'm okay."
+   },
+   {  
+      "start":"2361.859",
+      "vietnamese":"Điều mà cháu có thể làm...",
+      "english":"What you can do..."
+   },
+   {  
+      "start":"2365.263",
+      "vietnamese":"...đó là do những tia sấm sét đúng chứ?",
+      "english":"It was the lightning bolt?"
+   },
+   {  
+      "start":"2368.467",
+      "vietnamese":"Cũng đại loại như thế ạ.",
+      "english":"More or less."
+   },
+   {  
+      "start":"2371.737",
+      "vietnamese":"Chú xin lỗi, Barry.",
+      "english":"I'm sorry, Barry."
+   },
+   {  
+      "start":"2374.806",
+      "vietnamese":"Chú xin lỗi vì chú đã không tin cháu.",
+      "english":"I'm sorry I didn't believe you."
+   },
+   {  
+      "start":"2378.043",
+      "vietnamese":"Và chú đã gọi cháu là thằng điên khi cứ theo đuổi những điều không tưởng.",
+      "english":"And I called you crazy for chasing the impossible."
+   },
+   {  
+      "start":"2382.614",
+      "vietnamese":"Nhưng đúng là cháu đã nhìn thấy chuyện gì đó...",
+      "english":"But you really did see something"
+   },
+   {  
+      "start":"2383.915",
+      "vietnamese":"vào đêm mà mẹ cháu chết.",
+      "english":"that night your mom died."
+   },
+   {  
+      "start":"2388.386",
+      "vietnamese":"Và bố cháu hoàn toàn vô tội.",
+      "english":"And your dad is innocent."
+   },
+   {  
+      "start":"2393.391",
+      "vietnamese":"Chú cần cháu phải hứa với chú chuyện này.",
+      "english":"I need you to promise me something."
+   },
+   {  
+      "start":"2395.093",
+      "vietnamese":"Chú không muốn cháu cho Iris biết...",
+      "english":"I don't want you telling Iris"
+   },
+   {  
+      "start":"2397.095",
+      "vietnamese":"về khả năng của cháu. Toàn bộ mọi chuyện.",
+      "english":"about anything you can do, any of it."
+   },
+   {  
+      "start":"2400.298",
+      "vietnamese":"Chú muốn con bé được an toàn.",
+      "english":"I want her safe."
+   },
+   {  
+      "start":"2402.134",
+      "vietnamese":"Hứa với chú đi.",
+      "english":"Promise me."
+   },
+   {  
+      "start":"2405.203",
+      "vietnamese":"Cháu hứa.",
+      "english":"Yeah."
+   },
+   {  
+      "start":"2425.623",
+      "vietnamese":"Chào chàng võ sĩ.",
+      "english":"- Hey, slugger. -"
+   },
+   {  
+      "start":"2428.76",
+      "vietnamese":"Bố đã gọi con như thế từ khi con 11 tuổi.",
+      "english":"You've been calling me that since I was 11."
+   },
+   {  
+      "start":"2433.198",
+      "vietnamese":"Điều buồn cười là cuối cùng...",
+      "english":"Funny thing is, I finally got"
+   },
+   {  
+      "start":"2434.366",
+      "vietnamese":"hôm nay con đã đánh nhau thật sự.",
+      "english":"into a fight today."
+   },
+   {  
+      "start":"2435.767",
+      "vietnamese":"Con chỉ mới vừa tỉnh lại sau cơn hôn mê mà.",
+      "english":"You just got out of a coma."
+   },
+   {  
+      "start":"2437.369",
+      "vietnamese":"Bố không chắc là con nên đi đánh nhau đâu.",
+      "english":"I'm not sure you should be picking fights."
+   },
+   {  
+      "start":"2441.873",
+      "vietnamese":"Mà này.",
+      "english":"Hey..."
+   },
+   {  
+      "start":"2444.142",
+      "vietnamese":"Con có thắng không?",
+      "english":"Did you win?"
+   },
+   {  
+      "start":"2446.978",
+      "vietnamese":"Có ạ. Con đã thắng.",
+      "english":"Yeah, I did."
+   },
+   {  
+      "start":"2456.554",
+      "vietnamese":"Bố không giết mẹ.",
+      "english":"You didn't kill mom."
+   },
+   {  
+      "start":"2459.791",
+      "vietnamese":"Bố biết là con biết điều đó, đúng chứ ạ?",
+      "english":"You know I know that, right?"
+   },
+   {  
+      "start":"2463.628",
+      "vietnamese":"Con tin tưởng bố, đó là tất cả những gì bố cần.",
+      "english":"You believing me is all I need."
+   },
+   {  
+      "start":"2471.135",
+      "vietnamese":"Bố sẽ không còn phải ở đây lâu nữa đâu.",
+      "english":"You're not gonna be in here much longer."
+   },
+   {  
+      "start":"2474.339",
+      "vietnamese":"Dù cho kẻ nào đã giết mẹ,",
+      "english":"Whoever killed mom..."
+   },
+   {  
+      "start":"2476.508",
+      "vietnamese":"dù cho thứ gì đã giết mẹ...",
+      "english":"Whatever killed her..."
+   },
+   {  
+      "start":"2480.178",
+      "vietnamese":"Con nghĩ cuối cùng con đã có cách tìm được chúng rồi.",
+      "english":"I think I finally have a way to find them."
+   },
+   {  
+      "start":"2482.447",
+      "vietnamese":"Để ngăn chặn chúng.",
+      "english":"To stop them."
+   },
+   {  
+      "start":"2483.782",
+      "vietnamese":"Barry, chúng ta đã nói về chuyện này rồi mà.",
+      "english":"Barry, we've talked about this."
+   },
+   {  
+      "start":"2487.452",
+      "vietnamese":"Đã đến lúc phải quên nó đi rồi.",
+      "english":"It's time to let it go."
+   },
+   {  
+      "start":"2488.987",
+      "vietnamese":"Con cần phải thôi lo lắng cho bố đi.",
+      "english":"You have got to stop worrying about me,"
+   },
+   {  
+      "start":"2493.525",
+      "vietnamese":"Và hãy sống cuộc đời của con.",
+      "english":"and live your life."
+   },
+   {  
+      "start":"2498.629",
+      "vietnamese":"Lần đầu tiên trong đời, con cũng cảm thấy cuối cùng mình thật sự có thể làm được điều đó.",
+      "english":"For the first time, I feel like I finally can."
+   },
+   {  
+      "start":"2504.301",
+      "vietnamese":"Sự thật là kể từ cái đêm mà mẹ chết, con đã bị mắc kẹt ở duy nhất một nơi.",
+      "english":"The truth is, ever since the night mom died,"
+   },
+   {  
+      "start":"2506.338",
+      "vietnamese":"CƠN LỐC XOÁY BÍ ẨN PHÁ HỦY TRANG TRẠI con đã bị mắc kẹt ở duy nhất một nơi.",
+      "english":"I've been stuck in one place, \nCƠN LỐC XOÁY BÍ ẨN PHÁ HỦY TRANG TRẠI con đã bị mắc kẹt ở duy nhất một nơi. ','2506.338')\">"
+   },
+   {  
+      "start":"2508.807",
+      "vietnamese":"Bỏ lỡ rất nhiều điều.",
+      "english":"missed out on a lot of things."
+   },
+   {  
+      "start":"2512.31",
+      "vietnamese":"Nhưng giờ thì con đã khác trước rồi.",
+      "english":"But I'm different now."
+   },
+   {  
+      "start":"2514.012",
+      "vietnamese":"Con đã có vài người bạn mới.",
+      "english":"I've made some new friends."
+   },
+   {  
+      "start":"2516.314",
+      "vietnamese":"Họ đang giúp con tìm đến con đường đúng đắn.",
+      "english":"They're helping me find my way..."
+   },
+   {  
+      "start":"2518.016",
+      "vietnamese":"Tại sao cậu lại làm giống như hình quả cầu sấm chớp thế?",
+      "english":"Why is it shaped like a lightning bolt?"
+   },
+   {  
+      "start":"2520.285",
+      "vietnamese":"Để nhìn khỏi bị nhàm chán.",
+      "english":"So it's not boring."
+   },
+   {  
+      "start":"2522.354",
+      "vietnamese":"Và cuối cùng con cũng đã có thể sống tiếp.",
+      "english":"To finally move forward."
+   },
+   {  
+      "start":"2524.089",
+      "vietnamese":"Bố có nhớ khi bố muốn con đổi họ...",
+      "english":"You remember when you wanted me to change my name"
+   },
+   {  
+      "start":"2527.025",
+      "vietnamese":"để con không phải đối mặt với những người biết về bố không?",
+      "english":"so I wouldn't have to deal with people knowing you're my dad?"
+   },
+   {  
+      "start":"2531.763",
+      "vietnamese":"Nhưng con rất mừng là họ biết điều đó.",
+      "english":"I'm glad they know."
+   },
+   {  
+      "start":"2537.601",
+      "vietnamese":"Con thật sự rất tự hào, khi được làm con trai bố.",
+      "english":"I'm so proud to be your son."
+   },
+   {  
+      "start":"2547.745",
+      "vietnamese":"Bố yêu con, con trai à.",
+      "english":"I love you, son."
+   },
+   {  
+      "start":"2551.483",
+      "vietnamese":"Con cũng yêu bố.",
+      "english":"I love you too, dad."
+   },
+   {  
+      "start":"2569.7",
+      "vietnamese":"Tên tôi là Barry Allen.",
+      "english":"My name is Barry Allen,"
+   },
+   {  
+      "start":"2571.736",
+      "vietnamese":"Và tôi là người có tốc độ nhanh nhất trên hành tinh này.",
+      "english":"and I am the fastest man alive."
+   },
+   {  
+      "start":"2578.742",
+      "vietnamese":"Một người bạn gần đây vừa...",
+      "english":"- - A friend recently gave me"
+   },
+   {  
+      "start":"2580.278",
+      "vietnamese":"gợi ý cho tôi một cái tên mới.",
+      "english":"the idea for a new name."
+   },
+   {  
+      "start":"2586.45",
+      "vietnamese":"Và có điều gì đó mách bảo tôi rằng, nó sẽ rất phù hợp.",
+      "english":"And something tells me, it's gonna catch on."
+   }
+]
